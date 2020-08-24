@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guido Minieri blog</title>
+    <link>https://gmnr.github.io/</link>
+    <description>Recent content on Guido Minieri blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2020 21:18:45 +0200</lastBuildDate>
+    
+	<atom:link href="https://gmnr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first blog post</title>
+      <link>https://gmnr.github.io/my-first-blog-post/</link>
+      <pubDate>Mon, 24 Aug 2020 21:18:45 +0200</pubDate>
+      
+      <guid>https://gmnr.github.io/my-first-blog-post/</guid>
+      <description>Here it is&amp;hellip;
+This is my first (ahem second) blog post, I mean, ever.
+I&amp;rsquo;m quite excited (again), is this going to be an enriching journey? Will I be able to witstand the weight of commitment?
+ I guess we&amp;rsquo;ll see
+ </description>
+    </item>
+    
+  </channel>
+</rss>
