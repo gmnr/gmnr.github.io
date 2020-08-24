@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<h1 class="post-title">{{ .Title }}</h1>
+<br>
+<div class="post-date">
+    {{ partial "date.html" . }}
+</div>
+
+{{/*  find a way to add images
+{{ if (fileExist "static/img/banner.jpg") -}}
+    <img src="{{"img/banner.jpg" | absURL }}"/>
+{{- end }}
+
+*/}}
+<br>
+<br>
+{{ .Content }}
+
+{{ end }}

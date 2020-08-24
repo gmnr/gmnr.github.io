@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+{{ range where .Site.RegularPages.ByPublishDate.Reverse "Section" "posts" }}
+<div class="index-post">
+    {{ partial "date.html" . }}
+    <br>
+    <a class="index-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <div class="description">{{ .Description }}</div>
+    <br>
+</div>
+{{ end }}
+
+{{ end }}
