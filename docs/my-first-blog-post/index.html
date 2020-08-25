@@ -17,6 +17,19 @@ body {
     flex-direction: column;
 }
 
+a {
+    color: #1463ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a.footer {
+    margin: 7px;
+}
+
 h2.about-title, h3.about-title {
     margin-bottom: 0;
 }
@@ -66,7 +79,7 @@ hr.menu {
     margin: auto 8%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 700px) {
     .container {
         margin: auto;
     }
@@ -75,6 +88,10 @@ hr.menu {
         bottom: 0;
         width: 100%;
         height: 2.5rem;
+    }
+
+    .footer-text {
+        display: none;
     }
 }
 
@@ -86,6 +103,20 @@ hr.menu {
 .index-title {
     display: inline;
     font-size: 120%;
+}
+
+.footer-text {
+    margin-left: 5px;
+}
+
+.footer-icon {
+    width: 1.3em;
+    vertical-align: middle;
+    color: grey;
+}
+
+.menu-icon {
+    vertical-align: middle;
 }
 
 .post-title {
@@ -108,9 +139,13 @@ hr.menu {
     <div id="nav-border" class="container">
     <nav id="nav" class="nav">
     
-        <a class="nav-link" href="/">Home</a>
+        
+        
+        <a class="nav-link" href="/"><i class="menu-icon" data-feather="edit"></i> Home</a>
     
-        <a class="nav-link" href="/about/">About</a>
+        
+        
+        <a class="nav-link" href="/about/"><i class="menu-icon" data-feather="user"></i> About</a>
     
     </nav>
 </div>
@@ -143,13 +178,24 @@ hr.menu {
         <footer>
     <hr class="footer"/>
     <p>
-    Guido Minieri
-    &bull;
-    <a href="mailto:guido.minieri@gmail.com">Email me</a>
-    &bull;
-    Just a place to share my thoughts
+    <a class="footer" href="https://www.linkedin.com/in/guido-minieri/"><i class="footer-icon" data-feather="linkedin"></i><span class="footer-text">Guido Minieri</span></a>
+    ~
+    <a class="footer" href="mailto:guido.minieri@gmail.com"><i class="footer-icon" data-feather="mail"></i><span class="footer-text">guido.minieri@gmail.com</span></a>
+    ~
+    <a class="footer" href="https://github.com/gmnr"><i class="footer-icon" data-feather="github"></i><span class="footer-text">/gmnr</span></a>
+    <br>
+    A place to share my thoughts
+    <br>
+    <a href="https://github.com/gmnr/gmnr.github.io">View the source code</a>
     </p>
 </footer>
+
+        
+<script src="https://gmnr.github.io/js/feather.min.js"></script>
+<script>
+    feather.replace()
+</script>
+
 
     </div>
 </body>

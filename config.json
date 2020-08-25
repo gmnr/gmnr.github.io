@@ -13,11 +13,13 @@
         "main": [
             {
                 "name": "Home",
+                "pre": "edit",
                 "url": "/",
                 "weight": 1
             },
             {
                 "name": "About",
+                "pre": "user",
                 "url": "/about/",
                 "weight": 2
             }
