@@ -67,6 +67,14 @@ hr.menu {
     text-decoration: underline;
 }
 
+#Home {
+    float: left;
+}
+
+#About, #RSS {
+    float: right;
+}
+
 .container {
     max-width: {{ .Site.Params.containerMaxWidth | safeCSS }};
     margin: auto 10%;
@@ -98,8 +106,13 @@ hr.menu {
     font-size: 120%;
 }
 
+.menu-item {
+    display: inline;
+    margin: 6px;
+}
+
 .menu-text {
-    margin-left: 8px;
+    margin-left: 5px;
 }
 
 .menu-icon {

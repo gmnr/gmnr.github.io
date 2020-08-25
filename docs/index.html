@@ -75,6 +75,14 @@ hr.menu {
     text-decoration: underline;
 }
 
+#Home {
+    float: left;
+}
+
+#About, #RSS {
+    float: right;
+}
+
 .container {
     max-width: ;
     margin: auto 10%;
@@ -106,8 +114,13 @@ hr.menu {
     font-size: 120%;
 }
 
+.menu-item {
+    display: inline;
+    margin: 6px;
+}
+
 .menu-text {
-    margin-left: 8px;
+    margin-left: 5px;
 }
 
 .menu-icon {
@@ -144,17 +157,23 @@ hr.menu {
     <div id="nav-border" class="container">
     <nav id="nav" class="nav">
     
+    <div id="Home" class="menu-item">
         
         
         <a class="nav-link" href="/"><i class="menu-icon" data-feather="edit"></i><span class="menu-text">Home</span></a>
+    </div>
     
+    <div id="About" class="menu-item">
         
         
         <a class="nav-link" href="/about/"><i class="menu-icon" data-feather="user"></i><span class="menu-text">About</span></a>
+    </div>
     
+    <div id="RSS" class="menu-item">
         
         
         <a class="nav-link" href="/index.xml"><i class="menu-icon" data-feather="rss"></i><span class="menu-text">RSS</span></a>
+    </div>
     
     </nav>
 </div>
