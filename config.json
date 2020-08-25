@@ -13,8 +13,8 @@
     "menu": {
         "main": [
             {
-                "name": "Home",
-                "pre": "edit",
+                "name": "Blog",
+                "pre": "edit-3",
                 "url": "/",
                 "weight": 1
             },
