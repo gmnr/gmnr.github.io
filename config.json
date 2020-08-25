@@ -3,6 +3,7 @@
     "languageCode": "en-us",
     "title": "Guido Minieri blog",
     "publishDir": "docs",
+    "disableFastRender": true,
     "permalinks": {
         "posts": "/:title/"
     },
