@@ -22,6 +22,12 @@
                 "pre": "user",
                 "url": "/about/",
                 "weight": 2
+            },
+            {
+                "name": "RSS",
+                "pre": "rss",
+                "url": "/index.xml",
+                "weight": 3
             }
         ]
     }

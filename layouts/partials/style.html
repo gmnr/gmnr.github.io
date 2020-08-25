@@ -33,7 +33,7 @@ p.about-par {
 
 footer {
     color: grey;
-    font-size: 80%;
+    font-size: 85%;
     text-align: center;
     flex-shrink: 0;
 }
@@ -69,12 +69,12 @@ hr.menu {
 
 .container {
     max-width: {{ .Site.Params.containerMaxWidth | safeCSS }};
-    margin: auto 8%;
+    margin: auto 10%;
 }
 
 @media screen and (max-width: 700px) {
     .container {
-        margin: auto;
+        margin: 1.5%;
     }
 
     footer {
@@ -98,6 +98,14 @@ hr.menu {
     font-size: 120%;
 }
 
+.menu-text {
+    margin-left: 8px;
+}
+
+.menu-icon {
+    vertical-align: middle;
+}
+
 .footer-text {
     margin-left: 5px;
 }
@@ -106,10 +114,6 @@ hr.menu {
     width: 1.3em;
     vertical-align: middle;
     color: grey;
-}
-
-.menu-icon {
-    vertical-align: middle;
 }
 
 .post-title {

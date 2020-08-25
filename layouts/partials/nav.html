@@ -2,7 +2,7 @@
     <nav id="nav" class="nav">
     {{ range .Site.Menus.main  }}
         {{ $icon := printf "<i class=\"menu-icon\" data-feather=\"%s\"></i>" .Pre  }}
-        {{ $text := print $icon " " .Name | safeHTML  }}
+        {{ $text := print $icon "<span class=\"menu-text\">" .Name "</span>" | safeHTML  }}
         <a class="nav-link" href="{{ .URL  }}">{{ $text }}</a>
     {{ end }}
     </nav>
