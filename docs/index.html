@@ -113,9 +113,13 @@ hr.menu {
     float: right;
 }
 
+#footer-second-line {
+    display: inline;
+}
+
 .container {
     max-width: ;
-    margin: auto 10%;
+    margin: auto 16%;
 }
 
 @media screen and (max-width: 700px) {
@@ -131,6 +135,10 @@ hr.menu {
 
     .footer-text {
         display: none;
+    }
+
+    blockquote {
+        margin: 4%;
     }
 }
 
@@ -231,13 +239,16 @@ hr.menu {
         <footer>
     <hr class="footer"/>
     <p>
-    <a class="footer" href="https://github.com/gmnr"><i class="footer-icon" data-feather="github"></i><span class="footer-text">/gmnr</span></a>
-    ~
-    <a class="footer" href="mailto:guido.minieri@gmail.com"><i class="footer-icon" data-feather="mail"></i><span class="footer-text">guido.minieri@gmail.com</span></a>
-    ~
-    <a class="footer" href="https://www.linkedin.com/in/guido-minieri/"><i class="footer-icon" data-feather="linkedin"></i><span class="footer-text">Guido Minieri</span></a>
-    <br>
-    <i class="footer-icon" data-feather="map-pin"></i><span class="footer-text">Coding from Milan, Italy</span>
+    <div id="footer-fist-line">
+        <a class="footer" href="https://github.com/gmnr"><i class="footer-icon" data-feather="github"></i><span class="footer-text">/gmnr</span></a>
+        &bull;
+        <a class="footer" href="mailto:guido.minieri@gmail.com"><i class="footer-icon" data-feather="mail"></i><span class="footer-text">guido.minieri@gmail.com</span></a>
+        &bull;
+        <a class="footer" href="https://www.linkedin.com/in/guido-minieri/"><i class="footer-icon" data-feather="linkedin"></i><span class="footer-text">Guido Minieri</span></a>
+    </div>
+    <div id="footer-second-line">
+    <i class="footer-icon" data-feather="map-pin"></i><span class="footer-text">Coding from </span><span> Milan, Italy</span>
+    </div>
     <br>
     <a href="https://github.com/gmnr/gmnr.github.io">View the source code</a>
     </p>

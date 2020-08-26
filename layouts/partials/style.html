@@ -105,9 +105,13 @@ hr.menu {
     float: right;
 }
 
+#footer-second-line {
+    display: inline;
+}
+
 .container {
     max-width: {{ .Site.Params.containerMaxWidth | safeCSS }};
-    margin: auto 10%;
+    margin: auto 16%;
 }
 
 @media screen and (max-width: 700px) {
@@ -123,6 +127,10 @@ hr.menu {
 
     .footer-text {
         display: none;
+    }
+
+    blockquote {
+        margin: 4%;
     }
 }
 
