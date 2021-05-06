@@ -1,6 +1,6 @@
 ---
 title: "Kinesis Review"
-date: 2020-11-22T22:34:09+01:00
+date: 2021-05-02T22:34:09+01:00
 draft: false
 description: I decided to eat the leaf and buy a very expensive ergonomic keyboard
 ---
