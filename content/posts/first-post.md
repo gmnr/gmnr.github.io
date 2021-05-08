@@ -6,7 +6,7 @@ description: That time I decided I was going to build a blog from scratch... and
 ---
 ![banner](/img/first/start.jpg#banner)
 
-\
+## Getting started
 Here it is... 
 
 This is my ~~first~~ (ahem **second**) blog post, I mean, *ever*.
