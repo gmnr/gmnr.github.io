@@ -6,6 +6,5 @@ description: TODO
 ---
 ![banner](/path#banner)
 
-\
 Start here
 

@@ -9,7 +9,7 @@ description: That time I decided I was going to build a blog from scratch... and
 ## Getting started
 Here it is... 
 
-This is my ~~first~~ (ahem **second**) blog post, I mean, *ever*.
+This is my ~~first~~ (ahem second) blog post, I mean, *ever*.
 
 I'm quite excited to start this journey (again), but I'm left with some doubts:
 
