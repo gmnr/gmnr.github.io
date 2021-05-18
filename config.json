@@ -5,7 +5,7 @@
     "publishDir": "docs",
     "disableFastRender": true,
     "permalinks": {
-        "posts": "/:title/"
+        "posts": "/:year/:month/:day/:title/"
     },
     "params": {
         "dateFormat": "2 Jan, 2006"
