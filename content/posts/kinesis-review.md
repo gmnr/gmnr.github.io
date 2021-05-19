@@ -44,7 +44,7 @@ Finally, I am not as fast as I had hoped to be with an ergonomic keyboard, but t
 Here below the major pros and cons of owning a Kinesis, from my point of view:
 
 _What I like_:
-* the overall design is really build around an experience of comfort
+* the overall design is really build around the experience of comfort
 * the "side" effects on health and posture
 * the programmability, that I am not using to its full potential (but it's a nice to have)
 
