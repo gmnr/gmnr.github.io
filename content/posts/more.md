@@ -9,7 +9,7 @@ description: A reminder to avoid cradling in security, even if it is ever so com
 I am the kind of person that doesn't like confrontation much (both external and internal).  
 But even so, I recognize the importance of "opposition".
 
-With that I don't mean opposition in its general term and therefore I'm not advising you to go on and challenge everyone and everything in your life; but rather that you try and look inward, and always strive to challenge yourself.
+I don't mean it literally; I'm not suggesting you go challenging everyone and everything in your life but rather that you try and focus inward, always striving to challenge yourself.
 
 Everyday, even when I'm exhausted after a long day at work, I still try **to do, and read, and learn** new things, to try what doesn't immediately come easy.
 
