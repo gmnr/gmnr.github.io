@@ -28,11 +28,11 @@ I have therefore decided to buy the Kinesis Advantage 2 Keyboard. Specifically I
 This choice was made because I reasoned that I wouldn't want to bother other people much and because red is my favorite color.
 
 ## Typing with it
-The first month or so with the tool itself was kind of terrible; there is no manual on how you should put your hands on it and at what angle keeping the fingers on the keys. Also, the thumb cluster is a very new idea to your brain that uses the thumb only for the spacebar.
+The first month or so with the tool itself was kind of terrible; there is no manual on how you should put your hands on it and at what angle keeping the fingers on the keys. Also, the thumb cluster is a very new idea to your brain that uses the thumb only for the space bar.
 To overcome these hurdles I forced myself onto it by substituting the Kinesis to my regular keyboard and therefore using it for the 10+ hours of my "computer heavy" working day.
 
 The results were rather meager; it's very easy to get the posture wrong, you have to retrain your muscle memory (especially copy/pasting) because now you're doing everything with the thumb.
-Also the "feel" of the keycaps is somewhat cheap and clunky; especially on the keys of the thumb cluster which made an infernal noise of low-priced plastic and springs (the sound of the "enter" key is the worst of all, it rebounds as if there was spring loaded).
+Also the "feel" of the key caps is somewhat cheap and clunky; especially on the keys of the thumb cluster which made an infernal noise of low-priced plastic and springs (the sound of the "enter" key is the worst of all, it rebounds as if there was spring loaded).
 Then, little by little, I managed to gain some confidence typing on the new keyboard; I would say that in 3 months I had regained some ease while typing, however, I soon discovered that my typing speed was not improving.
 It took me 3 additional months and some deliberate practice to regain my usual "quickness" while typing.
 

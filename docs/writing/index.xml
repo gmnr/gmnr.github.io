@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on gmnr.github.io</title>
-    <link>https://gmnr.github.io/posts/</link>
-    <description>Recent content in Posts on gmnr.github.io</description>
+    <title>Writings on gmnr.github.io</title>
+    <link>https://gmnr.github.io/writing/</link>
+    <description>Recent content in Writings on gmnr.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 May 2021 22:34:09 +0100</lastBuildDate><atom:link href="https://gmnr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 22:34:09 +0100</lastBuildDate><atom:link href="https://gmnr.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review: Kinesis Advantage 2</title>
-      <link>https://gmnr.github.io/2021/05/02/review-kinesis-advantage-2/</link>
+      <link>https://gmnr.github.io/writing/kinesis-review/</link>
       <pubDate>Sun, 02 May 2021 22:34:09 +0100</pubDate>
       
-      <guid>https://gmnr.github.io/2021/05/02/review-kinesis-advantage-2/</guid>
+      <guid>https://gmnr.github.io/writing/kinesis-review/</guid>
       <description>What are ergonomic keyboards anyways? The design, usability and concept of an ergonomic keyboard are enhanced features that provide for a more comfortable (or strictly speaking more anatomically correct) typing experience.
 In order to do so an ergonomic keyboard might have one of the following (or all):
  ortolinear keys: the keys are neatly stacked in line, rather than being aligned diagonally key wells: little depressions that account for the different length of your fingers wrist pads: raised palm rests for a more comfortable typing experience  Of course all these &amp;ldquo;improvements&amp;rdquo; come with an hefty premium, that companies charge not only for those upgrades but also for the higher production costs required for an &amp;ldquo;artisanal&amp;rdquo; piece, as these keyboards are hardly mass produced and are almost always mechanic.</description>
@@ -20,10 +20,10 @@ In order to do so an ergonomic keyboard might have one of the following (or all)
     
     <item>
       <title>More</title>
-      <link>https://gmnr.github.io/2020/09/29/more/</link>
+      <link>https://gmnr.github.io/writing/more/</link>
       <pubDate>Tue, 29 Sep 2020 18:15:51 +0200</pubDate>
       
-      <guid>https://gmnr.github.io/2020/09/29/more/</guid>
+      <guid>https://gmnr.github.io/writing/more/</guid>
       <description>A ship in harbor is safe, but that is not what ships are built for  On confrontation I am the kind of person that doesn&amp;rsquo;t like confrontation much (both external and internal).
 But even so, I recognize the importance of &amp;ldquo;opposition&amp;rdquo;.
 I don&amp;rsquo;t mean it literally; I&amp;rsquo;m not suggesting you go challenging everyone and everything in your life but rather that you try and focus inward, always striving to challenge yourself.</description>
@@ -31,10 +31,10 @@ I don&amp;rsquo;t mean it literally; I&amp;rsquo;m not suggesting you go challen
     
     <item>
       <title>My first blog post</title>
-      <link>https://gmnr.github.io/2020/08/24/my-first-blog-post/</link>
+      <link>https://gmnr.github.io/writing/first-post/</link>
       <pubDate>Mon, 24 Aug 2020 21:18:45 +0200</pubDate>
       
-      <guid>https://gmnr.github.io/2020/08/24/my-first-blog-post/</guid>
+      <guid>https://gmnr.github.io/writing/first-post/</guid>
       <description>Even a journey of a thousand miles starts with a single step  First steps Here it is&amp;hellip; This is my second blog post, ever.
 Why not the first? Because this is the second time that I try blogging.
 I&amp;rsquo;m quite excited to start this journey (again), but I&amp;rsquo;m left with some doubts; one above all: will I be able to keep the commitment and write every now and then?</description>
