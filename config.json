@@ -1,34 +1,36 @@
 {
     "baseURL": "https://gmnr.github.io",
     "languageCode": "en-us",
-    "title": "Guido Minieri blog",
+    "title": "gmnr.github.io",
     "publishDir": "docs",
     "disableFastRender": true,
     "permalinks": {
         "posts": "/:year/:month/:day/:title/"
     },
     "params": {
-        "dateFormat": "2 Jan, 2006"
+        "dateFormat": "02-01-2006"
     },
     "menu": {
         "main": [
             {
-                "name": "Blog",
-                "pre": "edit-3",
+                "name": "Writing",
                 "url": "/",
                 "weight": 1
             },
             {
-                "name": "About",
-                "pre": "user",
-                "url": "/about/",
+                "name": "Reading",
+                "url": "/reading/",
                 "weight": 2
             },
             {
-                "name": "RSS",
-                "pre": "rss",
-                "url": "/index.xml",
+                "name": "About",
+                "url": "/about/",
                 "weight": 3
+            },
+            {
+                "name": "RSS",
+                "url": "/index.xml",
+                "weight": 4
             }
         ]
     },

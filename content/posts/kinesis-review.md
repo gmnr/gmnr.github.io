@@ -1,21 +1,22 @@
 ---
-title: "Kinesis Review"
+title: "Review: Kinesis Advantage 2"
 date: 2021-05-02T22:34:09+01:00
 draft: false
-description: I decided to eat the leaf and buy a very expensive ergonomic keyboard
+description: I ate the leaf and bought a very expensive keyboard
 ---
-![banner](/img/kinesis/ergonomic.jpeg#banner)
 
 ## What are ergonomic keyboards anyways?
 The design, usability and concept of an ergonomic keyboard are enhanced features that provide for a more comfortable (or strictly speaking more anatomically correct) typing experience.
 
 In order to do so an ergonomic keyboard might have one of the following (or all):
-- ortolinear keys (meaning the keys are neatly stacked in line, rather than being aligned diagonally)
-- key wells (little depressions that account for the different length of your fingers)
-- wrist pads or raised palm rests (for a more comfortable typing experience)
+- **ortolinear keys**: the keys are neatly stacked in line, rather than being aligned diagonally
+- **key wells**: little depressions that account for the different length of your fingers
+- **wrist pads**: raised palm rests for a more comfortable typing experience
 
 Of course all these "improvements" come with an hefty premium, that companies charge not only for those upgrades but also for the higher production costs required for an "artisanal" piece, as these keyboards are hardly mass produced and are almost always mechanic.
 To justify this extra buck, the producers usually add even more extra features that make these keyboard more niche. These added functionalities range from improved programmability to rear mirrors (I am not even [kidding](https://www.youtube.com/watch?v=h4-fq8ksZls&ab_channel=LinusTechTips) now).
+
+![ergo examples](/img/kinesis/keyboards.jpeg "Here some ergonomic keyboards in the wild")
 
 ## Why an expensive yet functional piece of equipment
 I don't know when I actually decided that I wanted to own an ergonomic keyboard. In anticipation, (and I would add "as usual") I watched a bunch of heavily opinionated YouTube videos to finally resolve into buying one. Money is never an issue when I'm thinking of buying something that my friends find from mildly fastidious to extremely annoying.
@@ -52,9 +53,7 @@ _What I don't like_:
 * it gets very dirty, very quickly
 * if you don't persevere, you come to a point where it's impossible to type (both on an ergonomic and a normal keyboard)
 
-Then, would I buy it again?
-
-_**Of course I would!!**_ 
+Then, would I buy it again? **Of course I would!!**
 
 Right now, there are few things that bring as much satisfaction as gliding over that ugly plastic shell at 90 wpm.
 But I believe this to be a state of mind, rather than an cold reasoning of what an ergonomic keyboard can do for you life.

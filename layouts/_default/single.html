@@ -2,9 +2,8 @@
 
 <h2 class="post-title">{{ .Title }}</h2>
 <br>
-<div class="post-date">
-    {{ partial "date.html" . }}
-</div>
+{{ $dateFormat := .Site.Params.dateFormat | default "02-01-2006" }}
+<div class="post-date">{{ .PublishDate.Format $dateFormat }}</div>
 {{ .Content }}
 
 {{ end }}

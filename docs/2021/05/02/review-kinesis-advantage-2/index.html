@@ -3,189 +3,165 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Kinesis Review</title>
+    <title>Review: Kinesis Advantage 2</title>
     <style>
 html {
-  font-family: Helvetica;
-  font-weight: 300;
-  font-size: 18px;
-  height: 100%;
+  --sans-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", sans-serif;
 }
 
 body {
-  hegiht: 100%;
-  display: flex;
-  flex-direction: column;
-  overflow-y: scroll;  
+  margin: 0 auto;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  line-height:1.6;
+  font-size:1rem;
+  font-family: var(--sans-font);
 }
 
-h2, h3, h4, h5 {
-  margin-bottom: 2px;
-  font-size: 120%;
+h2 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.004em;
+  line-height: 1.25;
+  font-weight: 600;
 }
 
-p {
+hr {
+  background: #000;
+  height: 1px;
+  border: 0;
+}
+
+hr.nav-border {
   margin-top: 0;
 }
 
-a {
-  color: #1463ff;
-  text-decoration: none;
-}
-
-blockquote {
-  position: relative;
-  color: grey;
-  padding-left: 1em;
-  border-left: 0.2em solid #1463ff ;
-  line-height: 1.5em;
-  &:before, &:after {
-    content: '\201C';
-    color: #1463ff;
-  }
-  &:after {
-    content: '\201D';
-  }
-}
-
-img {
-  margin: auto;
+hr.footer {
   display: block;
-  height: 600px;
+  width: 60%;
+  height: 1px;
+  border: 0;
+  margin: 0 auto;
+  padding: 0;
 }
 
-img[src*="#banner"] {
-  left: 50%;
-	margin-left: -50vw;
-	margin-right: -50vw;
-  margin-top: 1.5vw;
-  margin-bototm: 1.5vw;
-	max-width: 100vw;
-	position: relative;
-	right: 50%;
-	width: 100vw;
-  object-fit: cover;
+p, ul {
+  margin: 1rem 0;
+  margin-top: 0px;
 }
 
-figcaption {
-  color: grey;
-  font-size: 85%;
-  text-align: center;
+em {
+  font-style: italic;
 }
 
-a:hover {
+strong {
+  font-weight: 600;
+}
+
+a {
+  color: #000;
   text-decoration: underline;
+  texst-decoration-skip-ink: auto;
+}
+
+a:visited {
+  color: #333;
 }
 
 a.footer {
   margin: 7px;
 }
 
-h2.about-title, h3.about-title {
-  margin-bottom: 0;
+nav {
+  padding: 0.7rem 0rem;
+  margin: 0;
 }
 
-p.about-par {
-  margin-top: 0;
+blockquote {
+  position: relative;
+  font-style: italic;
+  color: grey;
+}
+
+img {
+  max-width: 100vw;
+  max-height: 100vh;
+  width: 100%;
+}
+
+figcaption {
+  color: grey;
+  font-size: 90%;
+  text-align: center;
 }
 
 footer {
+  width: 100%
   color: grey;
   font-size: 85%;
   text-align: center;
-  flex-shrink: 0;
 }
 
-hr.footer {
-  display: block;
-  width: 50%;
-  height: 1px;
-  border: 0;
-  border-top: 1px solid #ccc;
-  margin: 0 auto;
-  padding: 0;
-}
-
-hr.menu {
-  display: block;
-  border: 0;
-  border-top: 1px solid #000;
-  padding: 0;
-  margin: 10px -8px;
+code {
+  font-family: Monaco;
+  font-size: 90%;
 }
 
 #main {
-  margin-top: 1em;
-  margin-bottom: 1.5em;
-  flex: 1 0 auto;
-}
-
-#thanks {
-  text-align: center;
-  text-decoration: underline;
-}
-
-#Blog {
-  float: left;
-}
-
-#About, #RSS {
-  float: right;
+  padding-bottom: 2.5 rem;
 }
 
 #footer-second-line {
   display: inline;
 }
 
+#signature {
+  display: inline;
+  font-weight: 600;
+  float: right;
+}
+
 .container {
-  margin: auto 22%;
+  position: relative;
+  height: 100vh;
+  max-width: 720px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto
 }
 
-@media screen and (max-width: 700px) {
-  .container {
-    margin: 1.5%;
-  }
-
-  footer {
-    bottom: 0;
-    width: 100%;
-    height: 2.5rem;
-  }
-
-  .footer-text {
-    display: none;
-  }
-
-  blockquote {
-    margin: 4%;
-  }
-
-  img {
-    width: 100%;
-  }
-}
 
 .date {
   color: grey;
   font-size: 90%;
+  float: right;
+}
+
+.post-date {
+  color: grey;
 }
 
 .index-title {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.index-description {
   display: inline;
-  font-size: 120%;
+  font-style: italic;
+  font-size: 95%;
+}
+
+.index-reading {
+  display: inline;
+  font-size: 85%;
 }
 
 .menu-item {
   display: inline;
-  margin: 6px;
-}
-
-.menu-text {
-  margin-left: 5px;
-}
-
-.menu-icon {
-  vertical-align: middle;
+  padding: 10px 0px;
+  margin-right: 0.9rem;
 }
 
 .footer-text {
@@ -200,6 +176,11 @@ hr.menu {
 
 .post-title {
   display: inline;
+  font-size: 25px;
+  letter-spacing: 0.004em;
+  margin-bottom: 0.5rem;
+  line-height: 1.25;
+  font-weight: 600;
 }
 
 .post-date {
@@ -207,70 +188,83 @@ hr.menu {
   font-size: 110%;
 }
 
-.description {
-  font-size: 100%;
+.index-post {
+  margin: 0.7rem auto;
 }
 
-code {
-  font-family: Monaco;
-  font-size: 90%;
+@media screen and (max-width: 720px) {
+  .container {
+    margin: 1.5%;
+  }
+
+  footer {
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+  }
+
+  .footer-text, .index-description, .index-reading {
+    display: none;
+  }
 }
 </style>
 
 </head>
 
 <body>
-    <div id="nav-border" class="container">
+    <div class="container">
+    <div>
     <nav id="nav" class="nav">
     
-    <div id="Blog" class="menu-item">
+    <div id="Writing" class="menu-item">
         
+        <a class="nav-link" href="/"><span class="menu-text">Writing</span></a>
+    </div>
+    
+    <div id="Reading" class="menu-item">
         
-        <a class="nav-link" href="/"><i class="menu-icon" data-feather="edit-3"></i><span class="menu-text">Blog</span></a>
+        <a class="nav-link" href="/reading/"><span class="menu-text">Reading</span></a>
     </div>
     
     <div id="About" class="menu-item">
         
-        
-        <a class="nav-link" href="/about/"><i class="menu-icon" data-feather="user"></i><span class="menu-text">About</span></a>
+        <a class="nav-link" href="/about/"><span class="menu-text">About</span></a>
     </div>
     
     <div id="RSS" class="menu-item">
         
-        
-        <a class="nav-link" href="/index.xml"><i class="menu-icon" data-feather="rss"></i><span class="menu-text">RSS</span></a>
+        <a class="nav-link" href="/index.xml"><span class="menu-text">RSS</span></a>
     </div>
     
+    <div id="signature">Guido Minieri</div>
     </nav>
 </div>
-<hr class="menu"/>
+<hr class="nav-border"/>
 
-    <div class="container">
         <main id="main">
             
 
-<h2 class="post-title">Kinesis Review</h2>
+<h2 class="post-title">Review: Kinesis Advantage 2</h2>
 <br>
-<div class="post-date">
-    
 
-<time class="date" datetime=02-05-2021>2 May, 2021 ~  4 min read</time>
-
-</div>
-<p>
-    <img src="/img/kinesis/ergonomic.jpeg#banner" alt="banner">
-
-</p>
+<div class="post-date">02-05-2021</div>
 <h2 id="what-are-ergonomic-keyboards-anyways">What are ergonomic keyboards anyways?</h2>
 <p>The design, usability and concept of an ergonomic keyboard are enhanced features that provide for a more comfortable (or strictly speaking more anatomically correct) typing experience.</p>
 <p>In order to do so an ergonomic keyboard might have one of the following (or all):</p>
 <ul>
-<li>ortolinear keys (meaning the keys are neatly stacked in line, rather than being aligned diagonally)</li>
-<li>key wells (little depressions that account for the different length of your fingers)</li>
-<li>wrist pads or raised palm rests (for a more comfortable typing experience)</li>
+<li><strong>ortolinear keys</strong>: the keys are neatly stacked in line, rather than being aligned diagonally</li>
+<li><strong>key wells</strong>: little depressions that account for the different length of your fingers</li>
+<li><strong>wrist pads</strong>: raised palm rests for a more comfortable typing experience</li>
 </ul>
 <p>Of course all these &ldquo;improvements&rdquo; come with an hefty premium, that companies charge not only for those upgrades but also for the higher production costs required for an &ldquo;artisanal&rdquo; piece, as these keyboards are hardly mass produced and are almost always mechanic.
 To justify this extra buck, the producers usually add even more extra features that make these keyboard more niche. These added functionalities range from improved programmability to rear mirrors (I am not even <a href="https://www.youtube.com/watch?v=h4-fq8ksZls&amp;ab_channel=LinusTechTips">kidding</a> now).</p>
+<p>
+    <figure>
+        <img src="/img/kinesis/keyboards.jpeg" alt="ergo examples">
+        <figcaption>Here some ergonomic keyboards in the wild</figcaption>
+    </figure>
+
+</p>
 <h2 id="why-an-expensive-yet-functional-piece-of-equipment">Why an expensive yet functional piece of equipment</h2>
 <p>I don&rsquo;t know when I actually decided that I wanted to own an ergonomic keyboard. In anticipation, (and I would add &ldquo;as usual&rdquo;) I watched a bunch of heavily opinionated YouTube videos to finally resolve into buying one. Money is never an issue when I&rsquo;m thinking of buying something that my friends find from mildly fastidious to extremely annoying.</p>
 <p>However, the main selling point for me was that all the advantages and perks of an ergonomic keyboard can be attained only if the user knows how to touch type.
@@ -300,8 +294,7 @@ It took me 3 additional months and some deliberate practice to regain my usual &
 <li>it gets very dirty, very quickly</li>
 <li>if you don&rsquo;t persevere, you come to a point where it&rsquo;s impossible to type (both on an ergonomic and a normal keyboard)</li>
 </ul>
-<p>Then, would I buy it again?</p>
-<p><em><strong>Of course I would!!</strong></em></p>
+<p>Then, would I buy it again? <strong>Of course I would!!</strong></p>
 <p>Right now, there are few things that bring as much satisfaction as gliding over that ugly plastic shell at 90 wpm.
 But I believe this to be a state of mind, rather than an cold reasoning of what an ergonomic keyboard can do for you life.</p>
 
@@ -312,17 +305,17 @@ But I believe this to be a state of mind, rather than an cold reasoning of what 
     <hr class="footer"/>
     <p>
     <div id="footer-fist-line">
-        <a class="footer" href="https://github.com/gmnr"><i class="footer-icon" data-feather="github"></i><span class="footer-text">/gmnr</span></a>
+        <a class="footer" href="https://github.com/gmnr"><i class="footer-icon" data-feather="github"></i><span class="footer-text">gmnr</span></a>
         &bull;
         <a class="footer" href="mailto:guido.minieri@gmail.com"><i class="footer-icon" data-feather="mail"></i><span class="footer-text">guido.minieri@gmail.com</span></a>
         &bull;
         <a class="footer" href="https://www.linkedin.com/in/guido-minieri/"><i class="footer-icon" data-feather="linkedin"></i><span class="footer-text">Guido Minieri</span></a>
     </div>
     <div id="footer-second-line">
-    <i class="footer-icon" data-feather="map-pin"></i><span class="footer-text">Coding from </span><span> Telese Terme, Italy</span>
+        <i class="footer-icon" data-feather="map-pin"></i><span class="footer-text">Coding (and writing) from </span><span> Telese Terme, Italy</span>
     </div>
     <br>
-    <a href="https://github.com/gmnr/gmnr.github.io">View the source code</a>
+    <i class="footer-icon" data-feather="code"></i> <a href="https://github.com/gmnr/gmnr.github.io"><span class="footer-text">View the </span>source code</a>
     </p>
     <br>
 </footer>
