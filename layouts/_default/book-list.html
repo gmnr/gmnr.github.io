@@ -1,0 +1,13 @@
+{{ define "main"  }}
+
+<table>
+{{ range where .Site.RegularPages.ByPublishDate.Reverse "Section" "reading" }}
+<tr class="book-entry">
+    <td class="book-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+    <td class="book-author">{{ .Params.author }}</td> 
+    <td class="year-read">{{ .Date.Format "2006" }}</td> 
+    <td class="book-rating">{{ .Params.rating }}</td> 
+{{ end }}
+</table>
+
+{{ end }}

@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+<h2 class="post-title">{{ .Title }}</h2>
+<br>
+<div class="author">Author: {{ .Params.author }}</div>
+<div class="rating">Rating: {{ .Params.rating }}</div>
+<br>  
+{{ .Content }}
+{{ end }}

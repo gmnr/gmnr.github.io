@@ -117,6 +117,34 @@ code {
   font-size: 90%;
 }
 
+table {
+  width: 100%;
+  border-spacing: 0px;
+}
+
+td {
+  white-space: nowrap;
+}
+
+.book-title, .book-author {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 0;
+}
+
+.year-read, .book-rating {
+  width: 15%;
+  color: grey;
+}
+
+.book-title {
+  width: 47%;
+}
+
+.book-author {
+  width: 44%;
+}
+
 #main {
   padding-bottom: 2.5 rem;
 }
@@ -149,12 +177,16 @@ code {
   float: right;
 }
 
-.post-date {
+.post-date, .author, .rating {
   color: grey;
 }
 
-.index-title {
-  font-weight: bold;
+.author, .rating {
+  font-style: italic;
+}
+
+.index-title, .book-title {
+  font-weight: 600;
   text-decoration: none;
 }
 
@@ -200,7 +232,7 @@ code {
 }
 
 .index-post {
-  margin: 0.7rem auto;
+  margin: 0.12rem auto;
 }
 
 @media screen and (max-width: 720px) {
