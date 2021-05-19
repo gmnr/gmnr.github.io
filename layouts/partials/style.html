@@ -1,6 +1,7 @@
 <style>
 html {
   --sans-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", sans-serif;
+  height: 100%;
 }
 
 body {
@@ -9,6 +10,7 @@ body {
   line-height:1.6;
   font-size:1rem;
   font-family: var(--sans-font);
+  height: 100%;
 }
 
 h2 {
@@ -103,6 +105,11 @@ footer {
   color: grey;
   font-size: 90%;
   text-align: center;
+  height: 40px;
+}
+
+.push {
+  height: 40px;
 }
 
 code {
@@ -140,6 +147,8 @@ td {
 
 #main {
   padding-bottom: 2.5 rem;
+  min-height: 80vh;
+  margin-bottom: -50px;
 }
 
 #footer-second-line {
@@ -178,9 +187,14 @@ td {
   font-style: italic;
 }
 
-.index-title, .book-title {
+.index-title {
   font-weight: 600;
   text-decoration: none;
+}
+
+.book-title a {
+  text-decoration: none;
+  font-weight: 600;
 }
 
 .index-description {
@@ -192,6 +206,7 @@ td {
 .index-reading {
   display: inline;
   font-size: 85%;
+  color:red;
 }
 
 .menu-item {
@@ -243,7 +258,7 @@ td {
     top: 3px;
   }
 
-  #RSS, .footer-text, .index-description, .index-reading {
+  #RSS, .footer-text, .index-description, .index-reading, .year-read {
     display: none;
   }
 }

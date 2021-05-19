@@ -3,10 +3,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>reading with me</title>
+    <title>What I have read so far</title>
     <style>
 html {
   --sans-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", sans-serif;
+  height: 100%;
 }
 
 body {
@@ -15,6 +16,7 @@ body {
   line-height:1.6;
   font-size:1rem;
   font-family: var(--sans-font);
+  height: 100%;
 }
 
 h2 {
@@ -109,6 +111,11 @@ footer {
   color: grey;
   font-size: 90%;
   text-align: center;
+  height: 50px;
+}
+
+.push {
+  height: 50px;
 }
 
 code {
@@ -146,6 +153,8 @@ td {
 
 #main {
   padding-bottom: 2.5 rem;
+  min-height: 80vh;
+  margin-bottom: -40px;
 }
 
 #footer-second-line {
@@ -184,9 +193,14 @@ td {
   font-style: italic;
 }
 
-.index-title, .book-title {
+.index-title {
   font-weight: 600;
   text-decoration: none;
+}
+
+.book-title a {
+  text-decoration: none;
+  font-weight: 600;
 }
 
 .index-description {
@@ -302,6 +316,7 @@ td {
 
 
         </main>
+        <div class="push"></div>
         <footer>
     <hr class="footer"/>
     <p>
