@@ -17,4 +17,4 @@ I can recommend it as a very light read before going to bed if you're a novice a
 ### Book Details
 - ISBN: 9771828552415
 - Published: 2021
-- Publisher: TODO
+- Pages: 152
