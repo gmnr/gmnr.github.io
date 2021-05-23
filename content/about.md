@@ -32,7 +32,7 @@ Other languages I know?
 - Javascript
  
 ## Why blogging?
-I actually stated this blog as an exercise, I do a lot of weird stuff in my spare time (programming and non-programming wise); this weirdness ranges from little snippets of code (to scientifically prove a point with your friends) to more structured projects.
+I actually started this blog as an exercise, I do a lot of weird stuff in my spare time (programming and non-programming wise); this weirdness ranges from little snippets of code (to scientifically prove a point with my friends) to more structured projects.
 
 ![beer](/img/about/beer.jpg "Here I was tring to prove that I can get drunk with just one beer")
 
