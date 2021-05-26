@@ -24,5 +24,5 @@ I am not going to lie, I really enjoyed the book; probably my judgment is influe
 
 ## Book Details
 - ISBN: 9771828552415
-- - Published: 2020
+- Published: 2020
 - Pages: 152
