@@ -7,6 +7,7 @@ html {
 body {
   -webkit-font-smoothing:antialiased;
   text-rendering:optimizeLegibility;
+  overflow-y: scroll;
   line-height:1.6;
   font-size:1rem;
   font-family: var(--sans-font);
@@ -128,6 +129,7 @@ table {
 
 td {
   white-space: nowrap;
+  vertical-align: middle;
 }
 
 .push {
@@ -140,14 +142,6 @@ td {
   height: 1em;
 }
 
-.menu-left {
-  flex-basis: auto;
-}
-
-.menu-right {
-  flex-basis: auto;
-}
-
 .rss {
   text-decoration: none;
 }
@@ -156,7 +150,7 @@ td {
   font-weight: 600;
   cursor: default;
   text-decoration: none;
-  pointer-events: none;        
+  pointer-events: none;
 }
 
 .book-title, .book-author {
@@ -250,6 +244,10 @@ td {
 
 .menu-item {
   padding: 0.7em 0px;
+}
+
+.divider {
+  flex-grow: 10;
 }
 
 .footer-text {
