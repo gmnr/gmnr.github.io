@@ -1,12 +1,11 @@
 <div>
     <nav id="nav" class="nav">
     {{ range .Site.Menus.main  }}
-    <div id="{{ .Name }}" class="menu-item">
+    <div id="{{ .Name }}" class="menu-item {{ .Params.class }}">
         {{ $text := print "<span class=\"menu-text\">" .Name "</span>" | safeHTML  }}
-        <a class="nav-link" href="{{ .URL  }}">{{ $text }}</a>
+        <a class="nav-link" href="{{ .URL  }}"> {{ with .Pre }}{{ . }}{{ end }} {{ $text }} </a>
     </div>
     {{ end }}
-    <div id="signature">Guido Minieri</div>
     </nav>
 </div>
 <hr class="nav-border"/>

@@ -83,8 +83,10 @@ a.footer {
 }
 
 nav {
-  padding: 0.7rem 0rem;
-  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1em;
 }
 
 blockquote {
@@ -114,11 +116,6 @@ footer {
   height: 11vh;
 }
 
-.push {
-  height: 40px;
-  padding-top: 20px;
-}
-
 code {
   font-family: Monaco;
   font-size: 90%;
@@ -131,6 +128,35 @@ table {
 
 td {
   white-space: nowrap;
+}
+
+.push {
+  height: 40px;
+  padding-top: 20px;
+}
+
+.menu-icon {
+  color: grey;
+  height: 1em;
+}
+
+.menu-left {
+  flex-basis: auto;
+}
+
+.menu-right {
+  flex-basis: auto;
+}
+
+.rss {
+  text-decoration: none;
+}
+
+.signature {
+  font-weight: 600;
+  cursor: default;
+  text-decoration: none;
+  pointer-events: none;        
 }
 
 .book-title, .book-author {
@@ -223,9 +249,7 @@ td {
 }
 
 .menu-item {
-  display: inline;
-  padding: 10px 0px;
-  margin-right: 0.9rem;
+  padding: 0.7em 0px;
 }
 
 .footer-text {
@@ -267,7 +291,7 @@ td {
     top: 3px;
   }
 
-  #RSS, .footer-text, .index-description, .index-reading, .year-read {
+  .rss, .signature, .footer-text, .index-description, .index-reading, .year-read {
     display: none;
   }
 }

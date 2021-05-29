@@ -15,22 +15,51 @@
             {
                 "name": "Writing",
                 "url": "/",
+                "params": {
+                    "class": "menu-left"
+                },
                 "weight": 1
             },
             {
                 "name": "Reading",
                 "url": "/reading/",
+                "params": {
+                    "class": "menu-left"
+                },
                 "weight": 2
+            },
+            {
+                "name": "Learning",
+                "url": "/learning/",
+                "params": {
+                    "class": "menu-left"
+                },
+                "weight": 3
+            },
+            {
+                "name": "",
+                "pre": "\u003ci class='menu-icon' data-feather='rss'\u003e\u003c/i\u003e",
+                "url": "/index.xml",
+                "params": {
+                    "class": "menu-right rss"
+                },
+                "weight": 4
             },
             {
                 "name": "About",
                 "url": "/about/",
-                "weight": 3
+                "params": {
+                    "class": "menu-right"
+                },
+                "weight": 5
             },
             {
-                "name": "RSS",
-                "url": "/index.xml",
-                "weight": 4
+                "name": "Guido Minieri",
+                "url": "",
+                "params": {
+                    "class": "menu-right signature"
+                },
+                "weight": 6
             }
         ]
     },
