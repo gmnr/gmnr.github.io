@@ -4,6 +4,7 @@
     "title": "gmnr.github.io",
     "publishDir": "docs",
     "disableFastRender": true,
+    "googleAnalytics": "UA-168227188-1",
     "permalinks": {
         "posts": "/:year/:month/:day/:title/"
     },
