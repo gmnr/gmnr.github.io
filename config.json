@@ -24,11 +24,6 @@
                 "weight": 2
             },
             {
-                "name": "Learning",
-                "url": "/learning/",
-                "weight": 3
-            },
-            {
                 "name": " ",
                 "params": {
                     "class": "divider"
