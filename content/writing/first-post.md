@@ -19,4 +19,4 @@ As a form of wishful thinking, I hope that this quote below will accompany me du
 
 > There is nothing extraordinary in being superior to your fellow man. To be truly extraordinary is to be superior to your previous self.
 
-"Per aspera..."
+Per aspera...

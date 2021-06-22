@@ -5,6 +5,7 @@
     "publishDir": "docs",
     "disableFastRender": true,
     "googleAnalytics": "UA-168227188-1",
+    "ignorefiles": "content/ideas",
     "permalinks": {
         "posts": "/:year/:month/:day/:title/"
     },
