@@ -1,72 +1,72 @@
 {
-    "baseURL": "https://gmnr.github.io",
-    "languageCode": "en-us",
-    "title": "gmnr.github.io",
-    "publishDir": "docs",
-    "disableFastRender": true,
-    "googleAnalytics": "UA-168227188-1",
-    "ignorefiles": "content/ideas",
-    "permalinks": {
-        "posts": "/:year/:month/:day/:title/"
-    },
-    "params": {
-        "dateFormat": "02-01-2006"
-    },
-    "menu": {
-        "main": [
-            {
-                "name": "Writing",
-                "url": "/",
-                "weight": 1
-            },
-            {
-                "name": "Reading",
-                "url": "/reading/",
-                "weight": 2
-            },
-            {
-                "name": " ",
-                "params": {
-                    "class": "divider"
-                },
-                "weight": 4
-            },
-            {
-                "name": "",
-                "pre": "\u003ci class='menu-icon' data-feather='rss'\u003e\u003c/i\u003e",
-                "url": "/index.xml",
-                "params": {
-                    "class": "rss"
-                },
-                "weight": 5
-            },
-            {
-                "name": "About",
-                "url": "/about/",
-                "weight": 6
-            },
-            {
-                "name": "Guido Minieri",
-                "url": "",
-                "params": {
-                    "class": "signature",
-                    "signature": "true"
-                },
-                "weight": 7
-            }
-        ]
-    },
-    "markup": {
-        "highlight": {
-            "codeFences": true,
-            "guessSyntax": false,
-            "hl_Lines": "",
-            "lineNoStart": 1,
-            "lineNos": true,
-            "lineNumbersInTable": true,
-            "noClasses": true,
-            "style": "dracula",
-            "tabWidth": 4
-        }
+  "baseURL": "https://gmnr.github.io",
+  "languageCode": "en-us",
+  "title": "gmnr.github.io",
+  "publishDir": "docs",
+  "disableFastRender": true,
+  "googleAnalytics": "UA-168227188-1",
+  "ignorefiles": "content/ideas",
+  "permalinks": {
+    "posts": "/:year/:month/:day/:title/"
+  },
+  "params": {
+    "dateFormat": "02-01-2006"
+  },
+  "menu": {
+    "main": [
+      {
+        "name": "Writing",
+        "url": "/",
+        "weight": 1
+      },
+      {
+        "name": "Reading",
+        "url": "/reading/",
+        "weight": 2
+      },
+      {
+        "name": " ",
+        "params": {
+          "class": "divider"
+        },
+        "weight": 4
+      },
+      {
+        "name": "",
+        "pre": "\u003ci class='menu-icon' data-feather='rss'\u003e\u003c/i\u003e",
+        "url": "/index.xml",
+        "params": {
+          "class": "rss"
+        },
+        "weight": 5
+      },
+      {
+        "name": "About",
+        "url": "/about/",
+        "weight": 6
+      },
+      {
+        "name": "Guido Minieri",
+        "url": "",
+        "params": {
+          "class": "signature",
+          "signature": "true"
+        },
+        "weight": 7
+      }
+    ]
+  },
+  "markup": {
+    "highlight": {
+      "codeFences": true,
+      "guessSyntax": false,
+      "hl_Lines": "",
+      "lineNoStart": 1,
+      "lineNos": true,
+      "lineNumbersInTable": true,
+      "noClasses": true,
+      "style": "dracula",
+      "tabWidth": 4
     }
+  }
 }
