@@ -8,11 +8,15 @@ layout: book-review
 ---
 
 A bit underwhelming.  
-The authors try and represent a clear picture of the event surrounding the death of Philip II of Macedon, but the accounts and any historical reconstruction is nearly impossible because of the lack of reliable sources.
+The authors try and represent a clear picture of the event surrounding the
+death of Philip II of Macedon, but the accounts and any historical
+reconstruction is nearly impossible because of the lack of reliable sources.
 
-Therefore, the narrative delves deeper than I would've liked into **dramatization**.
+Therefore, the narrative delves deeper than I would've liked into
+**dramatization**.
 
-I can recommend it as a very light read before going to bed if you're a novice approaching the subject; but otherwise it lacks substance.
+I can recommend it as a very light read before going to bed if you're a novice
+approaching the subject; but otherwise it lacks substance.
 
 ### Book Details
 - ISBN: 9771828552415
