@@ -50,7 +50,7 @@
         "url": "",
         "params": {
           "class": "signature",
-          "signature": "true"
+          "signature": true
         },
         "weight": 7
       }
