@@ -24,12 +24,9 @@ required for an "artisanal" piece, as these keyboards are hardly mass produced
 and are almost always mechanic.
 To justify this extra buck, the producers usually add even more extra features
 that make these keyboard more niche. These added functionalities range from
-improved programmability to rear mirrors (I am not even
-[kidding](https://www.youtube.com/watch?v=h4-fq8ksZls&ab_channel=LinusTechTips)
-now).
+improved programmability to rear mirrors (I am not even [kidding](https://www.youtube.com/watch?v=h4-fq8ksZls&ab_channel=LinusTechTips) now).
 
-![ergo examples](/img/kinesis/keyboards.jpeg "Here some ergonomic keyboards in
-the wild")
+![ergo examples](/img/kinesis/keyboards.jpeg "Here some ergonomic keyboards in the wild")
 
 ## Why an expensive yet functional piece of equipment
 I don't know when I actually decided that I wanted to own an ergonomic

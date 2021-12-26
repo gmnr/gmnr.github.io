@@ -44,19 +44,15 @@ I hope that this visual medium can help your feel submerged by the tides of
 History:
 
 
-![jump](/img/tiberio/jump.jpg 'The place where the Emperor would "allegedly"
-throw off undesidered guests')
+![jump](/img/tiberio/jump.jpg 'The place where the Emperor would "allegedly" throw off undesidered guests')
 
-![view](/img/tiberio/view.jpg "From this vantage point it was possible to
-monitor the island and the Gulf of Naples")
+![view](/img/tiberio/view.jpg "From this vantage point it was possible to monitor the island and the Gulf of Naples")
 
-![palace](/img/tiberio/palace.jpg "The palace at his peak would have been
-majestic and opulent")
+![palace](/img/tiberio/palace.jpg "The palace at his peak would have been majestic and opulent")
 
 ![ruins](/img/tiberio/ruins.jpg "Another postcard of the ruins")
 
 ![panorama](/img/tiberio/panorama.jpg "A view fitting of an Emperor")
-
 
 ## Book Details
 - ISBN: 9771727552415

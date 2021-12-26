@@ -26,9 +26,8 @@ character you would want to know about; he truly is the last Defender of Rome's
 Republic.
 
 To know more about this titan of the Late Republic I cannot but recommend [this
-video by the Youtube channel Historia
-Civilis](https://www.youtube.com/watch?v=MkZx0q_3rYI) about the deeds that
-*Cicero* himself considered his best.
+video by the Youtube channel Historia Civilis](https://www.youtube.com/watch?v=MkZx0q_3rYI) about the deeds that *Cicero*
+himself considered his best.
 
 ## Book Details
 - ISBN: 9771828552415
