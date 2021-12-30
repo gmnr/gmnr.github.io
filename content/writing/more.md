@@ -6,9 +6,13 @@ description: A reminder to avoid cradling in security, even if it is ever so com
 ---
 
 ![A ship in the harbor](/img/more/pier.jpg "A ship in harbor is safe, but that
-is not what ships are built for") ## On confrontation I am the kind of person
-that doesn't like confrontation much (both external and internal).  But even
-so, I recognize the importance of "opposition".
+is not what ships are built for")
+
+## On confrontation
+
+I am the kind of person that doesn't like confrontation much (both external and
+internal).  
+But even so, I recognize the importance of "opposition".
 
 I don't mean it literally; I'm not suggesting you go challenging everyone and
 everything in your life but rather that you try and focus inward, always
