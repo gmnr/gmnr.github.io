@@ -1,7 +1,6 @@
 ---
 title: '"More"'
 date: 2020-09-29T18:15:51+02:00
-draft: false
 description: A reminder to avoid cradling in security, even if it is ever so comforting
 ---
 

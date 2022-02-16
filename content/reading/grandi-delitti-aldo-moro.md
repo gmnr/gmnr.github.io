@@ -3,7 +3,6 @@ title: "Aldo Moro - Grandi Delitti nella Storia"
 date: 2021-06-02T22:27:12+02:00
 author: "Matteo Albanese"
 rating: "5/5"
-draft: false
 layout: book-review
 ---
 

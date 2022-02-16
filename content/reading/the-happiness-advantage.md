@@ -3,7 +3,6 @@ title: "The Happiness Advantage"
 date: 2021-06-23T14:10:36+02:00
 author: "Shawn Achor"
 rating: "2/5"
-draft: false
 layout: book-review
 ---
 

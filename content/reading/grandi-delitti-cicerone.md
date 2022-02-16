@@ -3,7 +3,6 @@ title: "Cicerone - Grandi Delitti nella Storia"
 date: 2021-05-29T14:59:59+02:00
 author: "Francesca Pulitanò & Roberto Signorini"
 rating: "4/5"
-draft: false
 layout: book-review
 ---
 

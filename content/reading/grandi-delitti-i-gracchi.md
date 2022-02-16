@@ -3,7 +3,6 @@ title: "I Gracchi - Grandi Delitti nella Storia"
 date: 2021-03-24T20:54:02+02:00
 author: "Paola Lambrini"
 rating: "4/5"
-draft: false
 layout: book-review
 ---
 

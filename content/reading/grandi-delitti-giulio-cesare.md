@@ -3,7 +3,6 @@ title: "Giulio Cesare - Grandi Delitti nella Storia"
 date: 2021-05-25T22:21:41+02:00
 author: "Barbara Biscotti"
 rating: "4/5"
-draft: false
 layout: book-review
 ---
 

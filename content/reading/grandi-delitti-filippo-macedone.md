@@ -3,7 +3,6 @@ title: "Filippo II di Macedonia - Grandi Delitti nella Storia"
 date: 2021-05-19T23:36:37+02:00
 author: "Maddalena Bassani & Marco Presutti"
 rating: "2/5"
-draft: false
 layout: book-review
 ---
 

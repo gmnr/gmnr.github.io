@@ -3,7 +3,6 @@ title: "Tiberio - Grandi Delitti nella Storia"
 date: 2021-05-25T23:17:46+02:00
 author: "Luigino Pincini"
 rating: "3/5"
-draft: false
 layout: book-review
 ---
 

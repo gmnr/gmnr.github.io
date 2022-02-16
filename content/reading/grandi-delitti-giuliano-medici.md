@@ -3,7 +3,6 @@ title: "Giuliano de Medici - Grandi Delitti nella Storia"
 date: 2021-06-02T22:18:28+02:00
 author: "Andrea Dusio"
 rating: "2/5"
-draft: false
 layout: book-review
 ---
 

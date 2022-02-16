@@ -3,7 +3,6 @@ title: "Your Money or Your Life: 9 Steps to Transforming Your Relationship With 
 date: 2021-10-11T17:19:37+02:00
 author: "Vicki Robin"
 rating: "5/5"
-draft: false
 layout: book-review
 ---
 

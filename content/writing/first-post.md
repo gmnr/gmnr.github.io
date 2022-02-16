@@ -1,7 +1,6 @@
 ---
 title: "My first blog post"
 date: 2020-08-24T21:18:45+02:00
-draft: false
 description: Starting from scratch, all over again
 ---
 

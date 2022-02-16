@@ -1,7 +1,6 @@
 ---
 title: "Review: Kinesis Advantage 2"
 date: 2021-05-02T22:34:09+01:00
-draft: false
 description: I ate the leaf and bought a very expensive keyboard
 ---
 
