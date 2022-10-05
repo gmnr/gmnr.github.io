@@ -37,6 +37,7 @@ but nonetheless it is another book that I recommend, especially if you want to
 know more about the death throes of the Roman Republic.
 
 ## Book Details
+
 - ISBN: 9771828552415
 - Published: 2020
 - Pages: 152

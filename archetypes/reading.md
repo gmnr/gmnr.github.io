@@ -11,6 +11,7 @@ layout: book-review
 
 
 ## Book Details
+
 - ISBN: TODO
 - Published: TODO
 - Pages: TODO

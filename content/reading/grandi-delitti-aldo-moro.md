@@ -30,6 +30,7 @@ about a clash between two organizations: one "legitimate" and the other
 I won't spoil anything else, but you should really check it out.
 
 ## Book Details
+
 - ISBN: 9771727552415
 - Published: 2020
 - Pages: 150

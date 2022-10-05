@@ -29,6 +29,7 @@ video by the Youtube channel Historia Civilis](https://www.youtube.com/watch?v=M
 himself considered his best.
 
 ## Book Details
+
 - ISBN: 9771828552415
 - Published: 2020
 - Pages: 144

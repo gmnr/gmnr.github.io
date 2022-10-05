@@ -9,6 +9,7 @@ I play music (with varied degrees of success and instruments) and I like
 computers.
 
 ## The Computer Conundrum
+
 I have no CompSci background, but I am *rather enthusiastic* about computers
 (emphasis on both terms).
 
@@ -29,6 +30,7 @@ Right now I am trying to learn more about:
 - Networking
  
 ### Programming Languages
+
 The first language I ever came in contact with is
 [Python](https://www.python.org), and I have been in love ever since.  
 Now I feel pretty confident with it (but I am by no means a master) yet
@@ -42,6 +44,7 @@ Other languages I know?
 - Javascript
  
 ## Why blogging?
+
 I actually started this blog as an exercise, I do a lot of weird stuff in my
 spare time (programming and non-programming wise); this weirdness ranges from
 little snippets of code (to scientifically prove a point with my friends) to
@@ -50,6 +53,7 @@ more structured projects.
 ![beer](/img/about/beer.jpg "Here I was tring to prove that I can get drunk with just one beer")
 
 ### Finding my voice
+
 I have always been at a loss for word (with an *ironic* lack of a better term)
 and I am convinced that my communications skills, written or oral, are below
 average.

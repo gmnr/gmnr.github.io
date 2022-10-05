@@ -18,6 +18,7 @@ I can recommend it as a very light read before going to bed if you're a novice
 approaching the subject; but otherwise it lacks substance.
 
 ### Book Details
+
 - ISBN: 9771828552415
 - Published: 2021
 - Pages: 152

@@ -38,6 +38,7 @@ you form your "self-help" mindset and might even aid in getting started in
 a journey to a happier life, but you need to shed some critical thinking.
 
 ## Book Details
+
 - ISBN: 9780753539477
 - Published: 2011
 - Pages: 236

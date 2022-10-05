@@ -28,6 +28,7 @@ Thinking that applying yourself in something that is hard will help you, it
 eventually will.
 
 ## A note from me, to me
+
 I say this: always bear in mind to challenge yourself by way of thinking and
 learning, to struggle to be in a state of "uncomfortableness", with that growth
 and improvement will come "easy".  

@@ -14,6 +14,7 @@ that cites it as a very influential read in the journey towards **Financial
 Independence** (FI from now onward).
 
 ### What is financial Independence?
+
 Technically FI is the status of having enough income to pay one's living 
 expenses for the rest of one's life without having to be employed or dependent 
 on others. (according to [wikipedia](https://en.wikipedia.org/wiki/Financial_independence) anyways).
@@ -55,6 +56,7 @@ The book is comprised of 9 main steps towards your FI, each with their key
 takeaways and recommendations:
 
 #### 1. Making peace with the past
+
 In order to build a healthy relationship with money, is important to first get a
 good hard look at your vague beliefs about it.
 
@@ -79,6 +81,7 @@ which you have exchanged money), but not all bring you the same level of
 fulfillment and satisfaction.
 
 #### 2. Convert your money into life-energy
+
 This step surprised me a little, but it is a very effective way of re-framing
 what money truly means.
 
@@ -99,6 +102,7 @@ analogy, helps you rethink every purchase you make along the lines of:
 > **Is this item really worth XXX hours of my life?**
 
 #### 3. Build your P&L (profit and loss)
+
 For this step you need to build an accountability system to track all the money
 that comes or goes into your life. The book provides a template but you're
 free to implement your own, as long as income and expenses balance out.
@@ -107,6 +111,7 @@ And don't forget to add for each expense category the corresponding amount in
 life-energy lest you forget the real value that's behind your purchases.
 
 #### 4. Evaluate your spending with your moral compass
+
 This is an introspective one.  
 Each month, after compiling your P&L, you would need to take some time and
 reflect on your spending.
@@ -129,6 +134,7 @@ metric of all:
 > **How much is "Enough" for you**
 
 #### 5. Plot it
+
 After you've done your monthly evaluation for sometime, it would be useful to
 chart your progress and help you identify trends in your income and expenses.
 Moreover, if you are truly reflecting on your relationship with the things you
@@ -138,6 +144,7 @@ fulfillment would be trending upwards.
 This will provide inspiration and stimulus in continuing your path towards FI.
 
 #### 6. Optimize your spending
+
 This is the most practical step: learn and practice intelligent use of your
 money by:
 
@@ -147,10 +154,12 @@ money by:
   fix things)
 
 #### 7. Maximize income
+
 The other side of the previous step: learn how to trade your life-energy with
 integrity and purpose so that you can achieve higher earnings.
 
 #### 8. Crossover point
+
 At a certain point of your journey the downing trend of your expenses will meet
 the raising trend of your investment income.  
 That point (i.e. the Crossover point) is reached when you are financially
@@ -160,6 +169,7 @@ capital will be equal to your actual monthly expenses.
 > **You will have "Enough".**
 
 #### 9. Manage your finances
+
 The final step to financial independence is to become knowledgeable about
 long-term income-producing investments so that you can manage your finances for
 a steady income sufficient to your need in the long term.
@@ -173,6 +183,7 @@ consider this ideas in order to build a healthier relationship with money, and
 this is the right place to start.
 
 ## Book Details
+
 - ISBN: 9780143115762
 - Published: 2018
 - Pages: 328

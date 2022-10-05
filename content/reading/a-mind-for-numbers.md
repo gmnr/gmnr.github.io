@@ -23,6 +23,7 @@ You won't regret it.
 
 
 ## Book Details
+
 - ISBN: 9780399165245
 - Published: 2014
 - Pages: 332

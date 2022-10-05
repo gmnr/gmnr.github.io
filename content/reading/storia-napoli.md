@@ -35,6 +35,7 @@ stimulating for reading forward, however it's not enough to overlook the many
 shortcomings in narration and bias that the book presents.
 
 ## Book Details
+
 - ISBN: 8804526025
 - Published: 2004
 - Pages: 278

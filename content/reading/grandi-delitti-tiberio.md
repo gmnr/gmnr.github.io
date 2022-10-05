@@ -54,6 +54,7 @@ History:
 ![panorama](/img/tiberio/panorama.jpg "A view fitting of an Emperor")
 
 ## Book Details
+
 - ISBN: 9771727552415
 - Published: 2020
 - Pages: 152

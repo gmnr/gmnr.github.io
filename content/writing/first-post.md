@@ -8,6 +8,7 @@ description: Starting from scratch, all over again
 starts with a single step")
 
 ## First steps
+
 Here it is...  This is my second blog post, ever.  
 Why not the first? Because this is the second time that I try blogging. 
 

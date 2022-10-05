@@ -68,6 +68,7 @@ providing the reader with useful information and sources with which expand
 further on the subject.
 
 ## Book Details
+
 - ISBN: 9771828552415
 - Published: 2020
 - Pages: 151

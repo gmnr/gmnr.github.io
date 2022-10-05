@@ -5,6 +5,7 @@ description: I ate the leaf and bought a very expensive keyboard
 ---
 
 ## What are ergonomic keyboards anyways?
+
 The design, usability and concept of an ergonomic keyboard are enhanced
 features that provide for a more comfortable (or strictly speaking more
 anatomically correct) typing experience.
@@ -28,6 +29,7 @@ improved programmability to rear mirrors (I am not even [kidding](https://www.yo
 ![ergo examples](/img/kinesis/keyboards.jpeg "Here some ergonomic keyboards in the wild")
 
 ## Why an expensive yet functional piece of equipment
+
 I don't know when I actually decided that I wanted to own an ergonomic
 keyboard. In anticipation, (and I would add "as usual") I watched a bunch of
 heavily opinionated YouTube videos to finally resolve into buying one. Money is
@@ -46,6 +48,7 @@ This choice was made because I reasoned that I wouldn't want to bother other
 people much and because red is my favorite color.
 
 ## Typing with it
+
 The first month or so with the tool itself was kind of terrible; there is no
 manual on how you should put your hands on it and at what angle keeping the
 fingers on the keys. Also, the thumb cluster is a very new idea to your brain
@@ -79,6 +82,7 @@ comfort in resting your palms on a dedicated pad, and on reaching all keys with
 perpendicular motion, rather than awkward crossing on the left and right.
 
 ## Final thoughts
+
 Here below the major pros and cons of owning a Kinesis, from my point of view:
 
 _What I like_:

@@ -24,6 +24,7 @@ It was thus one of the weakest of this series, but I ascribe this to a matter
 of personal preference.
 
 ## Book Details
+
 - ISBN: 9771727552415
 - Published: 2020
 - Pages: 143
