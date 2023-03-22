@@ -1,7 +1,6 @@
 <style>
 html {
   --sans-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", sans-serif;
-  height: 80vh;
 }
 
 body {
@@ -54,7 +53,6 @@ hr.nav-border {
 }
 
 hr.footer {
-  display: block;
   width: 60%;
   height: 1px;
   border: 0;
@@ -123,7 +121,6 @@ footer {
   color: grey;
   font-size: 90%;
   text-align: center;
-  height: 16vh;
 }
 
 code {
@@ -142,8 +139,7 @@ td {
 }
 
 .push {
-  height: 60px;
-  padding-top: 30px;
+  height: 30px;
 }
 
 .menu-icon {
@@ -188,9 +184,7 @@ td {
 }
 
 #main {
-  padding-bottom: 2.5 rem;
-  min-height: 68vh;
-  margin-bottom: -50px;
+  flex: 1;
 }
 
 #footer-second-line {
@@ -206,13 +200,14 @@ td {
 }
 
 .container {
-  position: relative;
-  height: 80vh;
   max-width: 690px;
   padding-left: 20px;
   padding-right: 20px;
   margin-left: auto;
   margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  min-height: 98vh;
 }
 
 .date {
@@ -289,14 +284,8 @@ td {
 
 @media screen and (max-width: 720px) {
 
-  #main {
-    min-height: 67vh;
-  }
-
-  footer {
-    bottom: 0;
-    width: 100%;
-    height: 16vh;
+  .container {
+    min-height: 95vh;
   }
 
   #footer-second-line {
