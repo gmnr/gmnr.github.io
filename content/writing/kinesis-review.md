@@ -47,6 +47,8 @@ quieter (and that of course costs extra money).
 This choice was made because I reasoned that I wouldn't want to bother other
 people much and because red is my favorite color.
 
+![not my kinesis](/img/kinesis/kinesis.jpg "Pictured above, not my Kinesis")
+
 ## Typing with it
 
 The first month or so with the tool itself was kind of terrible; there is no
@@ -80,6 +82,9 @@ Finally, I am not as fast as I had hoped to be with an ergonomic keyboard, but
 the typing experience is certainly more pleasant. Truly there is an added
 comfort in resting your palms on a dedicated pad, and on reaching all keys with
 perpendicular motion, rather than awkward crossing on the left and right.
+
+![typing on a kinesis](/img/kinesis/hands.jpg "Here's an idea of where the hands
+are supposed to go")
 
 ## Final thoughts
 
