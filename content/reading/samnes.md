@@ -24,7 +24,7 @@ but dangerously **unverified** facts about the events it depicts.
 The book is divided in 17 chapters, each focused on a custom or an aspect of
 life in ancient Samnium.
 With this background it unfortunately presents the usual washed out "opposed
-love story" between to young lovers (there is also some steamy sex!).
+love story" between two young lovers (there is also some steamy sex!).
 
 It tries to tie everything together with some not-so-veiled winks at
 contemporary life in Samnium (for example the name of the wines), hinting at a
