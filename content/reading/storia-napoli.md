@@ -28,7 +28,7 @@ optic, that modern historiography has rejected.
 The worst part is probably the beginning, the origin of the city and it's first
 centuries are heavily fictionalized, with few and sporadic references to
 historical events. Alas, this was the bit that I was most looking forward
-to. 
+to.
 
 General and quirky trivial is abundant throughout the book, and I found it quite
 stimulating for reading forward, however it's not enough to overlook the many

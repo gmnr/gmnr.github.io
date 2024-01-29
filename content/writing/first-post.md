@@ -9,12 +9,12 @@ starts with a single step")
 
 ## First steps
 
-Here it is...  This is my second blog post, ever.  
-Why not the first? Because this is the second time that I try blogging. 
+Here it is... This is my second blog post, ever.  
+Why not the first? Because this is the second time that I try blogging.
 
 I'm quite excited to start this journey (again), but I'm left with some doubts;
-one above all: *will I be able to keep the commitment and write every now and
-then?*
+one above all: _will I be able to keep the commitment and write every now and
+then?_
 
 I'm feeling a lot like this:
 ![leroooy jenkiiinss](/img/first/letsgo.gif "This is me, when I do stuff")

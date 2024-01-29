@@ -7,8 +7,7 @@ draft: false
 layout: book-review
 ---
 
-*begin*
-
+_begin_
 
 ## Book Details
 

@@ -12,6 +12,7 @@ anatomically correct) typing experience.
 
 In order to do so an ergonomic keyboard might have one of the following (or
 all):
+
 - **ortolinear keys**: the keys are neatly stacked in line, rather than being
   aligned diagonally
 - **key wells**: little depressions that account for the different length of
@@ -91,15 +92,17 @@ are supposed to go")
 Here below the major pros and cons of owning a Kinesis, from my point of view:
 
 _What I like_:
-* the overall design is really build around the experience of comfort
-* the "side" effects on health and posture
-* the programmability, that I am not using to its full potential (but it's
+
+- the overall design is really build around the experience of comfort
+- the "side" effects on health and posture
+- the programmability, that I am not using to its full potential (but it's
   a nice to have)
 
 _What I don't like_:
-* it doesn't look (and feel) premium at all
-* it gets very dirty, very quickly
-* if you don't persevere, you come to a point where it's impossible to type
+
+- it doesn't look (and feel) premium at all
+- it gets very dirty, very quickly
+- if you don't persevere, you come to a point where it's impossible to type
   (both on an ergonomic and a normal keyboard)
 
 Then, would I buy it again? **Of course I would!!**

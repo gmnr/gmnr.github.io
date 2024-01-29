@@ -23,7 +23,6 @@ attempt at putting human power dynamics in a framework.
 
 **Couldn't finish it.**
 
-
 ## Book Details
 
 - ISBN: 0670881465

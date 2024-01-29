@@ -18,6 +18,7 @@ Spoiler:
 > Unfortunately, this method did not help me increase my productivity x10.
 
 ### A little bit of background
+
 The GTD method is a very famous productivity framework aimed at helping people
 manage their tasks and reach their objectives.  
 It conceptualize a way to free your brain of it's resource intensive
@@ -33,13 +34,14 @@ a simple decision tree:
 
 ![GTD decision tree](/img/gtd/gtd-workflow.png "GTD in its essence")
 
-And most importantly, the implementation details are *tool agnostic*, meaning
+And most importantly, the implementation details are _tool agnostic_, meaning
 that the user is left with a lot of freedom in defining the actual instruments
 with which pursue the goal towards productivity.  
 It can be proprietary software, a FOSS alternative or even the humble pen and
 paper.
 
 ### My thoughts about it
+
 Despite the low score, I've enjoyed the book but I've encountered some
 limitations when trying to apply its fundamentals on my own journey for
 productivity; and that's why it's hard for me to recommend it, unless you are
@@ -75,6 +77,6 @@ method.
 
 ## Book Details
 
-- ISBN:	9780143126560 
+- ISBN: 9780143126560
 - Published: Penguin Books
 - Pages: 267

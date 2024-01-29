@@ -41,11 +41,11 @@ In a typical negotiation, most people are so preoccupied with the arguments
 they have prepared beforehand that they do not actually listen to what the other
 is saying.
 
-### 2. Negotiation is about information gathering 
+### 2. Negotiation is about information gathering
 
 As in all confrontations, in order to gain an edge in negotiations, information
 is key. All forms of listening are game with the objective of collecting as much
-data as possibile. 
+data as possibile.
 
 A great focus should be placed on the kind of information that is hidden between
 the lines (tone, posture, behavior).
@@ -58,8 +58,9 @@ Labeling is a way to validate someone's emotions by verbally acknowledging them;
 it's about materializing someone's feelings into words and very smoothly
 repeating them as a way to show that we understand and respect their emotions.  
 Such activity just begins with words like:
-- it seems like... 
-- it sounds like... 
+
+- it seems like...
+- it sounds like...
 - it looks like...
 
 #### Accusation Audit
@@ -87,7 +88,7 @@ maintain the status quo and avoid change.
 ### 5. Negotiation is about agreeing on a starting point
 
 This foundation can be reached when the counterpart believes it has been heard,
-and that you truly understands their position and feelings.  
+and that you truly understands their position and feelings.
 
 Creating unconditional positive regard (aka "the connection") opens the door to
 changing thoughts and behaviors in the counterpart.  
@@ -102,13 +103,13 @@ acknowledgment of the emotions behind it.
 ### 6. Negotiation is about avoiding emotional traps
 
 - **Compromise**: never compromise, it creates a loss-loss situation for both
-    parties, and can only brew resentment. Compromise only stems from the desire to avoid confrontation, and thus generates a sub-optimal outcome;
+  parties, and can only brew resentment. Compromise only stems from the desire to avoid confrontation, and thus generates a sub-optimal outcome;
 - **Deadlines**: a rushed deal a bad deal by design; deadlines are often self
-    inflicted and imaginary;
+  inflicted and imaginary;
 - **Fairness**: decision making is an emotional activity. "Fair" is the most
-    powerful word in negotiations, it can be used as a defending move (I only
-    want what's fair) or for implicit criticism (I have offered you a fair
-    deal);
+  powerful word in negotiations, it can be used as a defending move (I only
+  want what's fair) or for implicit criticism (I have offered you a fair
+  deal);
 
 ### 7. Negotiation is about asking the "right" questions
 
@@ -158,14 +159,14 @@ religiously and that consistently delivers results:
 - Set a price target for yourself (what you want);
 - Put out a first offer at 65% of target, then go to 85%, 95% and 100% of target;
 - Make final offer a non-round number, that seems the result of complex
-    calculations
+  calculations
 - Then at last moment throw in something else non-monetary (and possibly useless)
-    to show you are at your limit.  
-    Unexpected conciliatory gestures like this are hugely effective because they
-    introduce a dynamic called reciprocity; the other party feels the need to
-    answer your generosity in kind. They will suddenly come up on their offer,
-    or they’ll look to repay your kindness in the future. People feel obliged to
-    repay debts of kindness.
+  to show you are at your limit.  
+   Unexpected conciliatory gestures like this are hugely effective because they
+  introduce a dynamic called reciprocity; the other party feels the need to
+  answer your generosity in kind. They will suddenly come up on their offer,
+  or they’ll look to repay your kindness in the future. People feel obliged to
+  repay debts of kindness.
 
 ## Book Details
 

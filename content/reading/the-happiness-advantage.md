@@ -6,8 +6,8 @@ rating: "2/5"
 layout: book-review
 ---
 
-The main concept presented in the book is that the *very American (and
-puritan)* equation of:
+The main concept presented in the book is that the _very American (and
+puritan)_ equation of:
 
 ![the wrong equation](/img/happiness/wrong.png)
 is substantially flawed.

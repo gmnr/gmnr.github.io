@@ -10,7 +10,7 @@ I am not the biggest fan of the Renaissance;
 I value its importance in the development of the modern world but my
 fascination ends there, I am more of a "BC" kind of guy (or even "early AD").
 
-In any case, the murder of *Giuliano* was sure an important step in defining
+In any case, the murder of _Giuliano_ was sure an important step in defining
 the future of Firenze.  
 What the book truly offers is an accurate cross section of what life was in the
 late Middle Ages with all its cultural fervor and development.

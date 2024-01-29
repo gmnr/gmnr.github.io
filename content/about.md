@@ -10,7 +10,7 @@ computers.
 
 ## The Computer Conundrum
 
-I have no CompSci background, but I am *rather enthusiastic* about computers
+I have no CompSci background, but I am _rather enthusiastic_ about computers
 (emphasis on both terms).
 
 With no formal education and zero practical knowledge in the field I know
@@ -24,11 +24,12 @@ by reading a lot of resources, following tutorials and trying (and failing) the
 for [advent of code](https://adventofcode.com/) challenges.
 
 Right now I am trying to learn more about:
+
 - System's Design
 - Object Oriented Programming
 - Software Optimization
 - Networking
- 
+
 ### Programming Languages
 
 The first language I ever came in contact with is
@@ -39,10 +40,11 @@ to try my hand at something less "user-friendly" and either go down a level of
 abstraction (with C) or try a new paradigm (with [Haskell](http://learnyouahaskell.com/)).
 
 Other languages I know?
+
 - Bash (and the Linux environment in general)
 - PostgreSQL
 - Javascript
- 
+
 ## Why blogging?
 
 I actually started this blog as an exercise, I do a lot of weird stuff in my
@@ -54,11 +56,12 @@ more structured projects.
 
 ### Finding my voice
 
-I have always been at a loss for word (with an *ironic* lack of a better term)
+I have always been at a loss for word (with an _ironic_ lack of a better term)
 and I am convinced that my communications skills, written or oral, are below
 average.
 
 So this little corner of the internet tries to achieve two things:
+
 - allows me to share with the world the things that I am passionate about
 - helps me building confidence in writing (and I am always open for
   [feedback](mailto:guido.minieri@gmail.com), as gnarly as it could be)

@@ -8,7 +8,7 @@ layout: book-review
 ---
 
 ![cat](/img/master-margherita/cat.jpg "That's a very large black cat, or maybe
-it's an hippo?!" )
+it's an hippo?!")
 
 My mom first suggested me the book, which she listened to as an audio-book in
 her spare time.
@@ -47,12 +47,12 @@ read.
 
 Nonetheless, the continuous trail of evidence that something "greater" is afoot,
 the overall feeling of reverence and sublime that the book inspires make it for
-me a very worthy read.  
+me a very worthy read.
 
 My only regret is that I haven't been able to read it with consistency (having
 interrupted the "flow" many times before finishing the book).
 
-***
+---
 
 I must also note that I listened to a lesson by professor Alessandro Barbero
 about the beauty of the book and its relationship with Bulgakov life.  

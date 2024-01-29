@@ -21,7 +21,6 @@ connect with what you're trying to learn and master it.
 If you are a student though, know yourself out and give it a try.  
 You won't regret it.
 
-
 ## Book Details
 
 - ISBN: 9780399165245

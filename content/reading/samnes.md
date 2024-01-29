@@ -13,7 +13,7 @@ of my ancestral people (I come from a small "new" town, that is located at the
 heart of the historic region that takes its name from the Saminte People), and
 therefore was excited at the idea of learning more about them.
 
-> [Fun Fact:](#) Telese's name comes from the ancient *Telesia* a capital of the
+> [Fun Fact:](#) Telese's name comes from the ancient _Telesia_ a capital of the
 > federation of independent tribes deep in Samnite territory
 
 However, I have some problems with _"fictionalization"_, as the acute reader
@@ -35,14 +35,13 @@ because it looks the book was written only for the sake of these
 connections.
 
 In the end every twist is predictable and most of the characters don't
-have any depth or development at all. 
+have any depth or development at all.
 However I must recognize that it would have been a good play, maybe staged in the
 belly of the amphitheater of the old Telesia, giving some life to the decrepit
 and abandoned ruins.
 
 All in all I ready it voraciously, but the after-taste it left in my mouth was
 not good enough to warrant an enthusiastic review.
-
 
 ## Book Details
 

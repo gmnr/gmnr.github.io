@@ -6,7 +6,7 @@ rating: "5/5"
 layout: book-review
 ---
 
-I read this book in one night;  
+I read this book in one night;
 
 As already mentioned in these reviews, I don't particularly like "modern"
 History (and for me modern is everything that happened less than 1.500 years
@@ -17,7 +17,7 @@ a way that feels genuine and engaging.
 Telling a story that has been written rewritten, conspired about, put on other
 media and much, much discussed is not an easy task, especially from an
 Historical point of view. And yet the way the facts surround the famous
-*"affare Moro"* are told in this essay specifically outline a new way of
+_"affare Moro"_ are told in this essay specifically outline a new way of
 telling History that I had not imagined.  
 Facts are not presented in a sensationalized way, but rather by verifying in
 every paragraph the checks and balances, the subtle equilibrium of presenting

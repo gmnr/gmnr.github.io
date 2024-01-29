@@ -7,7 +7,7 @@ layout: book-review
 ---
 
 I was really excited for this book; so excited that it actually took me more
-than 4 months to finally finish it (eheh).  
+than 4 months to finally finish it (eheh).
 
 I got to this book via a suggestion by [Mr. Rip](https://https://retireinprogress.com/)
 that cites it as a very influential read in the journey towards **Financial
@@ -15,8 +15,8 @@ Independence** (FI from now onward).
 
 ### What is financial Independence?
 
-Technically FI is the status of having enough income to pay one's living 
-expenses for the rest of one's life without having to be employed or dependent 
+Technically FI is the status of having enough income to pay one's living
+expenses for the rest of one's life without having to be employed or dependent
 on others. (according to [wikipedia](https://en.wikipedia.org/wiki/Financial_independence) anyways).
 
 However, the book is not about FI alone.  
@@ -28,7 +28,7 @@ This belief system is built upon three core concepts:
 1. **Financial Intelligence**: look at your relationship with money objectively
 2. **Financial Integrity**: align all aspect of your financial life with your
    values
-3. **Financial Independence**: -- *the wikipedia definition* --
+3. **Financial Independence**: -- _the wikipedia definition_ --
 
 Each concept is a step in a journey towards FI, which according to the author is
 just a by-product of your newly found balance with money and all it represents
@@ -61,7 +61,7 @@ In order to build a healthy relationship with money, is important to first get a
 good hard look at your vague beliefs about it.
 
 Nowadays money is a major stress agent of the modern world, especially when
-framed as *financial security*; therefore to "clear the air" on the subject the
+framed as _financial security_; therefore to "clear the air" on the subject the
 book provides a fun exercise: you need to calculate the total flow of money that
 has entered your life since you were born. At first the task seems impossibile,
 after all how can you remember all the transactions that have occurred during
@@ -86,10 +86,11 @@ This step surprised me a little, but it is a very effective way of re-framing
 what money truly means.
 
 As before, the book teases with a little exercise:
+
 - You would need to deduct from your gross weekly income all accessory costs; for example commuting, eating at work, dressing to impress, "decompression" and entertainment money;
 - Then add to your typical workweek (40h) the number of hours that you spend preparing for work, which is time that you are not spending following your true life's direction.
 
-The former divided by the latter becomes your *real* hourly wage and from here you
+The former divided by the latter becomes your _real_ hourly wage and from here you
 can convert this amount into the cost of a single dollar expressed life-energy
 (e.g. every dollar that you spend represents 15 minutes of your life).  
 Thus, working is simply exchanging your **life-energy** for **money**. And
@@ -148,9 +149,9 @@ This will provide inspiration and stimulus in continuing your path towards FI.
 This is the most practical step: learn and practice intelligent use of your
 money by:
 
-* being conscious of your spending
-* learning to purchase (by researching value, durability and repairability)
-* pick up skills that might help you reduce your spending (e.g. learn how to
+- being conscious of your spending
+- learning to purchase (by researching value, durability and repairability)
+- pick up skills that might help you reduce your spending (e.g. learn how to
   fix things)
 
 #### 7. Maximize income
@@ -163,7 +164,7 @@ integrity and purpose so that you can achieve higher earnings.
 At a certain point of your journey the downing trend of your expenses will meet
 the raising trend of your investment income.  
 That point (i.e. the Crossover point) is reached when you are financially
-independent (*congratulations*) and your monthly income from your invested
+independent (_congratulations_) and your monthly income from your invested
 capital will be equal to your actual monthly expenses.
 
 > **You will have "Enough".**
