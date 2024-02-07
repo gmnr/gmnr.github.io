@@ -6,7 +6,7 @@ rating: "4/5"
 layout: book-review
 ---
 
-I quite liked this one;  
+I quite liked this one;<br>
 it is the first book I read in 2021 and the first one I came across from the
 collection of "Grandi Delitti della Storia" (that translates into: _Great
 Murders of History_), a curated series by _[Corriere della
@@ -17,13 +17,13 @@ the ebb and flow of History and become catalysts of _change_.
 
 They are also surprisingly often well documented, either because of the
 morbidity inherent to human nature or maybe because the are a nice break from
-the _apparent plainness_ of History.  
+the _apparent plainness_ of History.<br>
 One thing is reading about an historical trend, an overarching process that is
 the sum of many little changes accrued during many years, or even decades;
 another matter entirely is the sudden _shift_ that happens in the polarizing
 moments after a famous murder.
 
-I find the juxtaposition that lies behind such events very interesting.  
+I find the juxtaposition that lies behind such events very interesting.<br>
 Those people are at the same time **the idea that the past has passed down to
 us** (look at Caesar for example, whose name has become the very _concept_ of
 power) and the **inescapably human vessel of the idea**, with its own merits,
@@ -41,7 +41,7 @@ the present.
 
 Without romanticizing much, all those people who's fate and misfortunes we read
 today, stripped of the ideal vest they inevitably fall into, in the end were
-just, well, people.  
+just, well, people.<br>
 The same parallel can be made for any human really (even those alive today):
 the Pope, the president of the United States, the [Chairman of the Library
 Association of Japan](http://www.jla.or.jp/portals/0/html/jla-e.html#jla).
@@ -62,7 +62,7 @@ people (opposed to the aristocracy) and both died a violent death in very
 similar circumstances, roughly a decade apart.
 
 Would definitely recommend this book to begin a journey into the tragic events
-that lead into famous murders.  
+that lead into famous murders.<br>
 I have especially appreciated the final section of the book that aims at
 providing the reader with useful information and sources with which expand
 further on the subject.

@@ -18,7 +18,7 @@ Telling a story that has been written rewritten, conspired about, put on other
 media and much, much discussed is not an easy task, especially from an
 Historical point of view. And yet the way the facts surround the famous
 _"affare Moro"_ are told in this essay specifically outline a new way of
-telling History that I had not imagined.  
+telling History that I had not imagined.<br>
 Facts are not presented in a sensationalized way, but rather by verifying in
 every paragraph the checks and balances, the subtle equilibrium of presenting
 facts in an aseptic way.

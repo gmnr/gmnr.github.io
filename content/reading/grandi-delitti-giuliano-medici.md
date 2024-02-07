@@ -6,12 +6,12 @@ rating: "2/5"
 layout: book-review
 ---
 
-I am not the biggest fan of the Renaissance;  
+I am not the biggest fan of the Renaissance;<br>
 I value its importance in the development of the modern world but my
 fascination ends there, I am more of a "BC" kind of guy (or even "early AD").
 
 In any case, the murder of _Giuliano_ was sure an important step in defining
-the future of Firenze.  
+the future of Firenze.<br>
 What the book truly offers is an accurate cross section of what life was in the
 late Middle Ages with all its cultural fervor and development.
 
