@@ -6,7 +6,7 @@ rating: "3/5"
 layout: book-review
 ---
 
-The book is a good read; especially if you are a student.<br>
+The book is a good read; especially if you are a student.  
 It can help you adapt and mold your studying strategy in order to maximize your
 retention and recollection.
 
@@ -18,7 +18,7 @@ What I have not so much liked is that it is heavily oriented towards the
 education system, helping you "passing the tests" rather than helping you truly
 connect with what you're trying to learn and master it.
 
-If you are a student though, know yourself out and give it a try.<br>
+If you are a student though, know yourself out and give it a try.  
 You won't regret it.
 
 ## Book Details

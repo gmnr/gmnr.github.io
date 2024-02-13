@@ -9,7 +9,7 @@ layout: book-review
 
 I dug in the book with high expectations, confident it would actually
 improve my "productivity habits" and make me more productive in both
-personal and work life.<br>
+personal and work life.  
 The proposition is seducing, who wouldn't want to set aside all the noise and
 the effort required to _**be organized**_ in favor of just "Get Things Done"?
 
@@ -20,7 +20,7 @@ Spoiler:
 ### A little bit of background
 
 The GTD method is a very famous productivity framework aimed at helping people
-manage their tasks and reach their objectives.<br>
+manage their tasks and reach their objectives.  
 It conceptualize a way to free your brain of it's resource intensive
 "storage capacity" allowing for a better allocation of it's "processing
 capacities" (not the author's way of describing things).
@@ -36,7 +36,7 @@ a simple decision tree:
 
 And most importantly, the implementation details are _tool agnostic_, meaning
 that the user is left with a lot of freedom in defining the actual instruments
-with which pursue the goal towards productivity.<br>
+with which pursue the goal towards productivity.  
 It can be proprietary software, a FOSS alternative or even the humble pen and
 paper.
 

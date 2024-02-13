@@ -6,7 +6,7 @@ rating: "3/5"
 layout: book-review
 ---
 
-Yet another book from the series of famous murders.<br>
+Yet another book from the series of famous murders.  
 This time I read about the death of the second Emperor of the Romans: _Tiberius
 Caesar Augustus_.
 
@@ -15,17 +15,17 @@ unexpected necessity.
 
 The story goes that at a rest in Misenum, from a trip from the island of Capri
 (where the Emperor had his palace) to Rome, _Tiberius_ fell ill and apparently
-died.<br>
+died.  
 At the time the two candidates for the imperial succession were two teen boys:
 
 - _Gaius_, his adoptive nephew (who would be remembered in History as
-  <br>_Caligula_) and oldest of the two
+  _Caligula_) and oldest of the two
 - _Tiberius Gemellus_, the Emperor's grandson
 
 After learning of the demise of their sovereign, the attending court in the
 villa immediately proclaimed _Caligula_, who was there, Emperor. They were just
 congratulating him for his succession that news broke out that _Tiberius_ had
-revived and was in fact alive.<br>
+revived and was in fact alive.  
 With terrific quick thinking _Caligula_ had the old Emperor smothered (or
 himself did it);
 _Tiberius Gemellus_ would join him in the Underworld after a few months.
@@ -39,7 +39,7 @@ Now is actually called _"Villa Jovis"_ and was rediscovered only in recent
 times (the 1700s).
 
 Here below there are some pictures of the palace where the Emperor lived, far
-away from Rome's politics, for 11 years.<br>
+away from Rome's politics, for 11 years.  
 I hope that this visual medium can help your feel submerged by the tides of
 History:
 

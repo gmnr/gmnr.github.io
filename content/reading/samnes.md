@@ -7,7 +7,7 @@ draft: false
 layout: book-review
 ---
 
-I brought this book with me when I moved from Telese to Naples.<br>
+I brought this book with me when I moved from Telese to Naples.  
 I picked it up because I've always been interested in history and customs
 of my ancestral people (I come from a small "new" town, that is located at the
 heart of the historic region that takes its name from the Saminte People), and
@@ -17,7 +17,7 @@ therefore was excited at the idea of learning more about them.
 > federation of independent tribes deep in Samnite territory
 
 However, I have some problems with _"fictionalization"_, as the acute reader
-of this blog will remember.<br>
+of this blog will remember.  
 And unfortunately this book reads like an easy novel, sprinkled with historical,
 but dangerously **unverified** facts about the events it depicts.
 
@@ -29,7 +29,7 @@ love story" between two young lovers (there is also some steamy sex!).
 It tries to tie everything together with some not-so-veiled winks at
 contemporary life in Samnium (for example the name of the wines), hinting at a
 sort of continuity between the proud communities of old and their "modern"
-inhabitants.<br>
+inhabitants.  
 But in my opinion these links only water down the credibility of the story
 because it looks the book was written only for the sake of these
 connections.

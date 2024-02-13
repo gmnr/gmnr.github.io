@@ -13,7 +13,7 @@ it's an hippo?!")
 My mom first suggested me the book, which she listened to as an audio-book in
 her spare time.
 
-She told me it was a masterpiece, that it was a must read in one's lifetime.<br>
+She told me it was a masterpiece, that it was a must read in one's lifetime.  
 And indeed it was.
 
 There is something deeply poetic in the parallels that the book traces. There
@@ -28,7 +28,7 @@ written a book.
 
 It's all very mystical, by the "gravitas" of the subjects in exam (with sources
 from the Bible) and also by the subtle hints and cameos that the book portraits
-of itself.<br>
+of itself.  
 In particular, there's the use of the same recurrent formula to finish the chapters
 that are staged in ancient Judea ("...in the month of Nisan.") or those that refer
 to Pilate himself ("...the horseman Pontius Pilate.").
@@ -40,7 +40,7 @@ only rushing towards the end.
 ## Many layers of magic
 
 I must confess that without reading first a detailed essay on meaning of the
-book, I would not be able to clearly state what the underlying methaphor is.<br>
+book, I would not be able to clearly state what the underlying methaphor is.  
 Probably because there isn't only one level of interpretation but different
 layers that change the meaning of the book based on the lenses with which is
 read.
@@ -55,7 +55,7 @@ interrupted the "flow" many times before finishing the book).
 ---
 
 I must also note that I listened to a lesson by professor Alessandro Barbero
-about the beauty of the book and its relationship with Bulgakov life.<br>
+about the beauty of the book and its relationship with Bulgakov life.  
 At the end the professor said he's always moved to tears by the end of the book,
 and so was I.
 

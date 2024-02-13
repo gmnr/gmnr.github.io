@@ -23,7 +23,7 @@ readers collect happiness boosts during the day in order to pursue their goals.
 However, a strong emphasis is put on the results of these methods (rather than
 their application) which are always presented by the perspective of the author
 via the numerous talks and presentations he's made on this idea and the
-feedback that he's received first-hand.<br>
+feedback that he's received first-hand.  
 Thus it lacks objectivity, there are no studies or graph in the book to
 corroborate what's being told, only the author's word.
 

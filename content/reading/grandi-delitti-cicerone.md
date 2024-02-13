@@ -12,7 +12,7 @@ Tullius Cicerone_.
 
 In opposition to my likings, it particularly stresses the emotions of
 _Cicerone_ himself, the indecision, the fear for his family's life, the last
-moments near is villa in Formia.<br>
+moments near is villa in Formia.  
 Such things, as they really went, are forever lost in _History_, but in this
 case that awful **dramatization** that much I dislike, was not out of place.
 
