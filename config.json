@@ -4,7 +4,6 @@
   "title": "gmnr.github.io",
   "publishDir": "docs",
   "disableFastRender": true,
-  "googleAnalytics": "UA-168227188-1",
   "ignorefiles": "content/ideas",
   "permalinks": {
     "posts": "/:year/:month/:day/:title/"
@@ -33,7 +32,7 @@
       },
       {
         "name": "",
-        "pre": "\u003ci class='menu-icon' data-feather='rss'\u003e\u003c/i\u003e",
+        "pre": "<i class='menu-icon' data-feather='rss'></i>",
         "url": "/index.xml",
         "params": {
           "class": "rss"

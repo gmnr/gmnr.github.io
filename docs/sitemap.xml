@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gmnr.github.io/reading/close-to-the-machine/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-22T10:16:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading/soldiers-and-silver/</loc>
+    <lastmod>2024-04-22T10:16:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading/close-to-the-machine/</loc>
     <lastmod>2024-02-13T08:43:15+01:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/</loc>
-    <lastmod>2024-02-13T08:43:15+01:00</lastmod>
-  </url><url>
-    <loc>https://gmnr.github.io/reading/</loc>
-    <lastmod>2024-02-13T08:43:15+01:00</lastmod>
-  </url><url>
-    <loc>https://gmnr.github.io/reading/48-rules/</loc>
+    <loc>http://localhost:1313/reading/48-rules/</loc>
     <lastmod>2023-10-13T20:34:14+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/gtd/</loc>
+    <loc>http://localhost:1313/reading/gtd/</loc>
     <lastmod>2023-10-03T10:23:03+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/samnes/</loc>
+    <loc>http://localhost:1313/reading/samnes/</loc>
     <lastmod>2023-06-05T08:04:24+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/master-and-margherita/</loc>
+    <loc>http://localhost:1313/reading/master-and-margherita/</loc>
     <lastmod>2023-03-22T19:25:20+01:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/storia-napoli/</loc>
+    <loc>http://localhost:1313/writing/</loc>
+    <lastmod>2023-03-21T22:01:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading/storia-napoli/</loc>
     <lastmod>2022-08-31T11:01:47+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/a-mind-for-numbers/</loc>
+    <loc>http://localhost:1313/reading/a-mind-for-numbers/</loc>
     <lastmod>2022-03-15T16:50:14+01:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/never-split-the-difference/</loc>
+    <loc>http://localhost:1313/reading/never-split-the-difference/</loc>
     <lastmod>2022-01-24T13:22:39+01:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/writing/about-frugality/</loc>
+    <loc>http://localhost:1313/writing/about-frugality/</loc>
     <lastmod>2022-01-08T12:38:16+01:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/writing/</loc>
-    <lastmod>2022-01-08T12:38:16+01:00</lastmod>
-  </url><url>
-    <loc>https://gmnr.github.io/reading/your-money-your-life/</loc>
+    <loc>http://localhost:1313/reading/your-money-your-life/</loc>
     <lastmod>2021-10-11T17:19:37+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/the-happiness-advantage/</loc>
+    <loc>http://localhost:1313/reading/the-happiness-advantage/</loc>
     <lastmod>2021-06-23T14:10:36+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/grandi-delitti-aldo-moro/</loc>
+    <loc>http://localhost:1313/reading/grandi-delitti-aldo-moro/</loc>
     <lastmod>2021-06-02T22:27:12+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/grandi-delitti-giuliano-medici/</loc>
+    <loc>http://localhost:1313/reading/grandi-delitti-giuliano-medici/</loc>
     <lastmod>2021-06-02T22:18:28+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/grandi-delitti-cicerone/</loc>
+    <loc>http://localhost:1313/reading/grandi-delitti-cicerone/</loc>
     <lastmod>2021-05-29T14:59:59+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/grandi-delitti-tiberio/</loc>
+    <loc>http://localhost:1313/reading/grandi-delitti-tiberio/</loc>
     <lastmod>2021-05-25T23:17:46+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/grandi-delitti-giulio-cesare/</loc>
+    <loc>http://localhost:1313/reading/grandi-delitti-giulio-cesare/</loc>
     <lastmod>2021-05-25T22:21:41+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/grandi-delitti-filippo-macedone/</loc>
+    <loc>http://localhost:1313/reading/grandi-delitti-filippo-macedone/</loc>
     <lastmod>2021-05-19T23:36:37+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/writing/kinesis-review/</loc>
+    <loc>http://localhost:1313/writing/kinesis-review/</loc>
     <lastmod>2021-05-02T22:34:09+01:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/reading/grandi-delitti-i-gracchi/</loc>
+    <loc>http://localhost:1313/reading/grandi-delitti-i-gracchi/</loc>
     <lastmod>2021-03-24T20:54:02+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/writing/more/</loc>
+    <loc>http://localhost:1313/writing/more/</loc>
     <lastmod>2020-09-29T18:15:51+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/writing/first-post/</loc>
+    <loc>http://localhost:1313/writing/first-post/</loc>
     <lastmod>2020-08-24T21:18:45+02:00</lastmod>
   </url><url>
-    <loc>https://gmnr.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://gmnr.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://gmnr.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://gmnr.github.io/reading/</loc>
+    <loc>http://localhost:1313/reading/</loc>
   </url>
 </urlset>
