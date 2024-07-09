@@ -8,305 +8,316 @@
   />
   <title>Giulio Cesare - Grandi Delitti nella Storia</title>
   <style>
-html {
-  --sans-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", sans-serif;
-}
+  html {
+    --sans-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir,
+      helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", sans-serif;
+  }
 
-body {
-  -webkit-font-smoothing:antialiased;
-  text-rendering:optimizeLegibility;
-  overflow-y: scroll;
-  line-height:1.6;
-  font-size:1rem;
-  font-family: var(--sans-font);
-}
+  body {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-y: scroll;
+    line-height: 1.6;
+    font-size: 1rem;
+    font-family: var(--sans-font);
+  }
 
-h2 {
-  font-size: 1.3rem;
-  margin-bottom: 0.5rem;
-  letter-spacing: 0.004em;
-  line-height: 1.25;
-  font-weight: 600;
-}
+  h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.004em;
+    line-height: 1.25;
+    font-weight: 600;
+  }
 
-h3 {
-  font-size: 1.1rem;
-  margin-bottom: 0.2rem;
-  letter-spacing: 0.004em;
-  line-height: 1.25;
-  font-weight: 600;
-}
+  h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.2rem;
+    letter-spacing: 0.004em;
+    line-height: 1.25;
+    font-weight: 600;
+  }
 
-h4 {
-  font-size: 1rem;
-  margin-bottom: 0.2rem;
-  letter-spacing: 0.004em;
-  line-height: 1.25;
-  font-weight: 600;
-}
+  h4 {
+    font-size: 1rem;
+    margin-bottom: 0.2rem;
+    letter-spacing: 0.004em;
+    line-height: 1.25;
+    font-weight: 600;
+  }
 
-hr {
-  width: 75%;
-  border: 1.5px solid #ddd;
-  background-color: #ddd;
-  border-radius: 5px;
-  margin-bottom: 1em;
-}
+  hr {
+    width: 75%;
+    border: 1.5px solid #ddd;
+    background-color: #ddd;
+    border-radius: 5px;
+    margin-bottom: 1em;
+  }
 
-hr.nav-border {
-  margin-top: 0;
-  background: #000;
-  height: 1px;
-  border: 0;
-  width: 100%;
-}
+  hr.nav-border {
+    margin-top: 0;
+    background: #000;
+    height: 1px;
+    border: 0;
+    width: 100%;
+  }
 
-hr.footer {
-  width: 60%;
-  height: 1px;
-  border: 0;
-  margin: 0 auto;
-  padding: 0;
-  background: #000;
-}
+  hr.footer {
+    width: 60%;
+    height: 1px;
+    border: 0;
+    margin: 0 auto;
+    padding: 0;
+    background: #000;
+  }
 
-p, ul {
-  margin: 1rem 0;
-  margin-top: 0px;
-  text-align: justify;
-  text-justify: inter-word;
-}
+  p,
+  ul {
+    margin: 1rem 0;
+    margin-top: 0px;
+    text-align: justify;
+    text-justify: inter-word;
+  }
 
-em {
-  font-style: italic;
-}
+  em {
+    font-style: italic;
+  }
 
-strong {
-  font-weight: 600;
-}
+  strong {
+    font-weight: 600;
+  }
 
-a {
-  color: #000;
-  text-decoration: underline;
-}
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
 
-a:visited {
-  color: #333;
-}
+  a:visited {
+    color: #333;
+  }
 
-a.footer {
-  margin: 7px;
-  text-decoration: none;
-  color: grey
-}
+  a.footer {
+    margin: 7px;
+    text-decoration: none;
+    color: grey;
+  }
 
-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 1em;
-}
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1em;
+  }
 
-blockquote {
-  position: relative;
-  text-align: center;
-  font-style: italic;
-  color: grey;
-}
+  blockquote {
+    position: relative;
+    text-align: center;
+    font-style: italic;
+    color: grey;
+  }
 
-img {
-  width: 100%;
-}
+  img {
+    width: 100%;
+  }
 
-figure {
-  margin: 0px auto;
-}
+  figure {
+    margin: 0px auto;
+  }
 
-figcaption {
-  color: grey;
-  font-size: 90%;
-  text-align: center;
-}
+  figcaption {
+    color: grey;
+    font-size: 90%;
+    text-align: center;
+  }
 
-footer {
-  color: grey;
-  font-size: 90%;
-  text-align: center;
-}
+  footer {
+    color: grey;
+    font-size: 90%;
+    text-align: center;
+  }
 
-code {
-  font-family: Monaco;
-  font-size: 90%;
-}
+  code {
+    font-family: Monaco;
+    font-size: 90%;
+  }
 
-table {
-  width: 100%;
-  border-spacing: 0px;
-}
+  table {
+    width: 100%;
+    border-spacing: 0px;
+  }
 
-td {
-  white-space: nowrap;
-  vertical-align: middle;
-}
+  td {
+    white-space: nowrap;
+    vertical-align: middle;
+  }
 
-.push {
-  height: 30px;
-}
+  .push {
+    height: 30px;
+  }
 
-.menu-icon {
-  color: grey;
-  height: 1em;
-}
+  .menu-icon {
+    color: grey;
+    height: 1em;
+  }
 
-.rss {
-  text-decoration: none;
-}
+  .rss {
+    text-decoration: none;
+  }
 
-.signature {
-  font-weight: 600;
-  cursor: default;
-  text-decoration: none;
-  pointer-events: none;
-}
+  .signature {
+    font-weight: 600;
+    cursor: default;
+    text-decoration: none;
+    pointer-events: none;
+  }
 
-.book-title, .book-author {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 0;
-}
+  .book-title,
+  .book-author {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 0;
+  }
 
-.year-read, .book-rating {
-  width: 15%;
-}
+  .year-read,
+  .book-rating {
+    width: 15%;
+  }
 
-.book-title {
-  width: 60%;
-}
+  .book-title {
+    width: 60%;
+  }
 
-.book-author {
-  width: 31%;
-  font-size: 90%;
-  color: grey;
-}
+  .book-author {
+    width: 31%;
+    font-size: 90%;
+    color: grey;
+  }
 
-.year-read {
-  font-size: 90%;
-  color: grey;
-}
+  .year-read {
+    font-size: 90%;
+    color: grey;
+  }
 
-#main {
-  flex: 1;
-}
-
-#footer-second-line {
-  position: relative;
-  display: inline;
-  top: 1px;
-}
-
-#signature {
-  display: inline;
-  font-weight: 600;
-  float: right;
-}
-
-.container {
-  max-width: 690px;
-  padding-left: 20px;
-  padding-right: 20px;
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-  flex-direction: column;
-  min-height: 98vh;
-}
-
-.date {
-  color: grey;
-  font-size: 90%;
-  float: right;
-}
-
-.post-date, .author, .rating {
-  color: grey;
-}
-
-.author, .rating {
-  font-style: italic;
-}
-
-.index-title {
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.book-title a {
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.index-description {
-  display: inline;
-  font-style: italic;
-  font-size: 95%;
-}
-
-.index-reading {
-  display: inline;
-  font-size: 85%;
-  color:red;
-}
-
-.menu-item {
-  padding: 0.7em 0px;
-}
-
-.divider {
-  flex-grow: 10;
-}
-
-.footer-text {
-  margin-left: 5px;
-}
-
-.footer-icon {
-  width: 1.3em;
-  vertical-align: middle;
-  color: grey;
-}
-
-.post-title {
-  display: inline;
-  font-size: 25px;
-  letter-spacing: 0.004em;
-  margin-bottom: 0.5rem;
-  line-height: 1.25;
-  font-weight: 600;
-}
-
-.post-date {
-  display: inline;
-  font-size: 110%;
-}
-
-.index-post {
-  margin: 0.12rem auto;
-}
-
-@media screen and (max-width: 720px) {
-
-  .container {
-    min-height: 95vh;
+  #main {
+    flex: 1;
   }
 
   #footer-second-line {
-    top: 3px;
+    position: relative;
+    display: inline;
+    top: 1px;
   }
 
-  .rss, .signature, .footer-text, .index-description, .index-reading, .year-read {
-    display: none;
+  #signature {
+    display: inline;
+    font-weight: 600;
+    float: right;
   }
-}
+
+  .container {
+    max-width: 690px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 98vh;
+  }
+
+  .date {
+    color: grey;
+    font-size: 90%;
+    float: right;
+  }
+
+  .post-date,
+  .author,
+  .rating {
+    color: grey;
+  }
+
+  .author,
+  .rating {
+    font-style: italic;
+  }
+
+  .index-title {
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .book-title a {
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .index-description {
+    display: inline;
+    font-style: italic;
+    font-size: 95%;
+  }
+
+  .index-reading {
+    display: inline;
+    font-size: 85%;
+    color: red;
+  }
+
+  .menu-item {
+    padding: 0.7em 0px;
+  }
+
+  .divider {
+    flex-grow: 10;
+  }
+
+  .footer-text {
+    margin-left: 5px;
+  }
+
+  .footer-icon {
+    width: 1.3em;
+    vertical-align: middle;
+    color: grey;
+  }
+
+  .post-title {
+    display: inline;
+    font-size: 25px;
+    letter-spacing: 0.004em;
+    margin-bottom: 0.5rem;
+    line-height: 1.25;
+    font-weight: 600;
+  }
+
+  .post-date {
+    display: inline;
+    font-size: 110%;
+  }
+
+  .index-post {
+    margin: 0.12rem auto;
+  }
+
+  @media screen and (max-width: 720px) {
+    .container {
+      min-height: 95vh;
+    }
+
+    #footer-second-line {
+      top: 3px;
+    }
+
+    .rss,
+    .signature,
+    .footer-text,
+    .index-description,
+    .index-reading,
+    .year-read {
+      display: none;
+    }
+  }
 </style>
 
 </head>
