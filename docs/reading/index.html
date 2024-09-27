@@ -47,28 +47,53 @@
   }
 
   hr {
-    width: 75%;
-    border: 1.5px solid #ddd;
-    background-color: #ddd;
-    border-radius: 5px;
-    margin-bottom: 1em;
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    width: 80%;
+    overflow: visible;
+    text-align: center;
+    height: 6px;
+    margin-bottom: 2em;
+    margin-top: 2em;
+  }
+
+  hr:after {
+    background: #fff;
+    content: "◈";
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
   }
 
   hr.nav-border {
+    all: initial;
     margin-top: 0;
     background: #000;
+    border-radius: 5px;
+    margin-bottom: 1em;
     height: 1px;
     border: 0;
     width: 100%;
   }
 
+  hr.nav-border:after {
+    all:initial;
+  }
+
   hr.footer {
+    all:initial
     width: 60%;
     height: 1px;
     border: 0;
     margin: 0 auto;
+    border-radius: 5px;
     padding: 0;
     background: #000;
+  }
+
+  hr.footer:after {
+    all:initial;
   }
 
   p,
@@ -377,6 +402,18 @@
             
 
 <table>
+
+<tr class="book-entry">
+    <td class="book-title"><a href="/reading/grapes-of-wrath/">The Grapes of Wrath</a></td>
+    <td class="book-author">TODO</td> 
+    <td class="year-read">2024</td> 
+    <td class="book-rating">x/5</td> 
+
+<tr class="book-entry">
+    <td class="book-title"><a href="/reading/giulio-cesare/">Giulio Cesare: Il Dittatore Democratico</a></td>
+    <td class="book-author">Luciano Canfora</td> 
+    <td class="year-read">2024</td> 
+    <td class="book-rating">4/5</td> 
 
 <tr class="book-entry">
     <td class="book-title"><a href="/reading/the-storm-before-the-storm/">The Storm Before the Storm: The Beginning of the End of the Roman Republic</a></td>
