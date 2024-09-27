@@ -42,8 +42,8 @@ abstraction (with C) or try a new paradigm (with [Haskell](http://learnyouahaske
 Other languages I know?
 
 - Bash (and the Linux environment in general)
-- PostgreSQL
-- Javascript
+- SQL
+- Javascript (never actually used for anything)
 
 ## Why blogging?
 
@@ -66,5 +66,8 @@ So this little corner of the internet tries to achieve two things:
 - helps me building confidence in writing (and I am always open for
   [feedback](mailto:guido.minieri@gmail.com), as gnarly as it could be)
 
+---
+
 I hope this can be an enriching experience for the both of us!  
+
 **Thank you for reading**
