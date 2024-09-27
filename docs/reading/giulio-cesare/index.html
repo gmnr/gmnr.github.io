@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+  <title>Giulio Cesare: Il Dittatore Democratico</title>
+  <style>
+  html {
+    --sans-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir,
+      helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", sans-serif;
+  }
+
+  body {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-y: scroll;
+    line-height: 1.6;
+    font-size: 1rem;
+    font-family: var(--sans-font);
+  }
+
+  h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.004em;
+    line-height: 1.25;
+    font-weight: 600;
+  }
+
+  h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.2rem;
+    letter-spacing: 0.004em;
+    line-height: 1.25;
+    font-weight: 600;
+  }
+
+  h4 {
+    font-size: 1rem;
+    margin-bottom: 0.2rem;
+    letter-spacing: 0.004em;
+    line-height: 1.25;
+    font-weight: 600;
+  }
+
+  hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    width: 80%;
+    overflow: visible;
+    text-align: center;
+    height: 6px;
+    margin-bottom: 2em;
+    margin-top: 2em;
+  }
+
+  hr:after {
+    background: #fff;
+    content: "◈";
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+  }
+
+  hr.nav-border {
+    all: initial;
+    margin-top: 0;
+    background: #000;
+    border-radius: 5px;
+    margin-bottom: 1em;
+    height: 1px;
+    border: 0;
+    width: 100%;
+  }
+
+  hr.nav-border:after {
+    all:initial;
+  }
+
+  hr.footer {
+    all:initial
+    width: 60%;
+    height: 1px;
+    border: 0;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 0;
+    background: #000;
+  }
+
+  hr.footer:after {
+    all:initial;
+  }
+
+  p,
+  ul {
+    margin: 1rem 0;
+    margin-top: 0px;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  strong {
+    font-weight: 600;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: #333;
+  }
+
+  a.footer {
+    margin: 7px;
+    text-decoration: none;
+    color: grey;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1em;
+  }
+
+  blockquote {
+    position: relative;
+    text-align: center;
+    font-style: italic;
+    color: grey;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  figure {
+    margin: 0px auto;
+  }
+
+  figcaption {
+    color: grey;
+    font-size: 90%;
+    text-align: center;
+  }
+
+  footer {
+    color: grey;
+    font-size: 90%;
+    text-align: center;
+  }
+
+  code {
+    font-family: Monaco;
+    font-size: 90%;
+  }
+
+  table {
+    width: 100%;
+    border-spacing: 0px;
+  }
+
+  td {
+    white-space: nowrap;
+    vertical-align: middle;
+  }
+
+  .push {
+    height: 30px;
+  }
+
+  .menu-icon {
+    color: grey;
+    height: 1em;
+  }
+
+  .rss {
+    text-decoration: none;
+  }
+
+  .signature {
+    font-weight: 600;
+    cursor: default;
+    text-decoration: none;
+    pointer-events: none;
+  }
+
+  .book-title,
+  .book-author {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 0;
+  }
+
+  .year-read,
+  .book-rating {
+    width: 15%;
+  }
+
+  .book-title {
+    width: 60%;
+  }
+
+  .book-author {
+    width: 31%;
+    font-size: 90%;
+    color: grey;
+  }
+
+  .year-read {
+    font-size: 90%;
+    color: grey;
+  }
+
+  #main {
+    flex: 1;
+  }
+
+  #footer-second-line {
+    position: relative;
+    display: inline;
+    top: 1px;
+  }
+
+  #signature {
+    display: inline;
+    font-weight: 600;
+    float: right;
+  }
+
+  .container {
+    max-width: 690px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 98vh;
+  }
+
+  .date {
+    color: grey;
+    font-size: 90%;
+    float: right;
+  }
+
+  .post-date,
+  .author,
+  .rating {
+    color: grey;
+  }
+
+  .author,
+  .rating {
+    font-style: italic;
+  }
+
+  .index-title {
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .book-title a {
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .index-description {
+    display: inline;
+    font-style: italic;
+    font-size: 95%;
+  }
+
+  .index-reading {
+    display: inline;
+    font-size: 85%;
+    color: red;
+  }
+
+  .menu-item {
+    padding: 0.7em 0px;
+  }
+
+  .divider {
+    flex-grow: 10;
+  }
+
+  .footer-text {
+    margin-left: 5px;
+  }
+
+  .footer-icon {
+    width: 1.3em;
+    vertical-align: middle;
+    color: grey;
+  }
+
+  .post-title {
+    display: inline;
+    font-size: 25px;
+    letter-spacing: 0.004em;
+    margin-bottom: 0.5rem;
+    line-height: 1.25;
+    font-weight: 600;
+  }
+
+  .post-date {
+    display: inline;
+    font-size: 110%;
+  }
+
+  .index-post {
+    margin: 0.12rem auto;
+  }
+
+  @media screen and (max-width: 720px) {
+    .container {
+      min-height: 95vh;
+    }
+
+    #footer-second-line {
+      top: 3px;
+    }
+
+    .rss,
+    .signature,
+    .footer-text,
+    .index-description,
+    .index-reading,
+    .year-read {
+      display: none;
+    }
+  }
+</style>
+
+</head>
+
+<body>
+    <div class="container">
+    <div>
+  <nav id="nav" class="nav">
+    
+    <div id="Writing" class="menu-item ">
+      
+      
+        <a class="nav-link" href="/">  <span class="menu-text">Writing</span> </a>
+      
+    </div>
+    
+    <div id="Reading" class="menu-item ">
+      
+      
+        <a class="nav-link" href="/reading/">  <span class="menu-text">Reading</span> </a>
+      
+    </div>
+    
+    <div id=" " class="menu-item divider">
+      
+      
+        <a class="nav-link" href="">  <span class="menu-text"> </span> </a>
+      
+    </div>
+    
+    <div id="" class="menu-item rss">
+      
+      
+        <a class="nav-link" href="/index.xml"> <i class='menu-icon' data-feather='rss'></i> <span class="menu-text"></span> </a>
+      
+    </div>
+    
+    <div id="About" class="menu-item ">
+      
+      
+        <a class="nav-link" href="/about/">  <span class="menu-text">About</span> </a>
+      
+    </div>
+    
+    <div id="Guido Minieri" class="menu-item signature">
+      
+      
+        <span class="menu-text">Guido Minieri</span>
+      
+    </div>
+    
+  </nav>
+</div>
+<hr class="nav-border"/>
+
+        <main id="main">
+            
+
+<h2 class="post-title">Giulio Cesare: Il Dittatore Democratico</h2>
+<br>
+<div class="author">Author: Luciano Canfora</div>
+<div class="rating">Rating: 4/5</div>
+<br>  
+<p>I picked up this book by chance while browsing around in a local library.<br>
+The edition I ended up taking had that famous bust of Caesar that now is a popular
+souvenir at the Vatican Museum.</p>
+<p><figure>
+    <img src="/img/caesar/bust.jpeg" alt="Caesar bust, now in the Vatican Museum">
+    <figcaption>The bust in question</figcaption>
+</figure>
+</p>
+<p>I always wanted to read a monograph about the most important (?) man for the Western Civilization.<br>
+(I mean, heck, the various European titles all meant Caesar: Zar, Kaiser, Cesar; and they all emanate from this one Caesar).</p>
+<blockquote>
+<p>Eventually, during the Empire, it even became a job description.<br>
+I&rsquo;m looking at you Diocletian.</p>
+</blockquote>
+<p>Much of this recognition however lays within the subtle and widespread PR policies of his successor, which
+was undoubtedly &ldquo;The real master of Rome&rdquo;.</p>
+<hr>
+<p>The author, is a well known philologist and Italian classicist; so going in I was expecting
+a somewhat &ldquo;heavy&rdquo; book, steeped in in sources and other literary nitpicks.<br>
+Unexpectedly, except for some more intense passages, the book was an easy read; and it does it&rsquo;s best
+in trying to portrait Caesar as human, disentangling him from the <strong>mythical status</strong> that History has forever given him.</p>
+<p>Most of his actions are more easily explained by the circumstances in which they arose
+(the pact with Pompey, striving to stay in power to avoid legal prosecution by his enemies, crossing the Rubicon in arms)
+rather than some brilliant and convoluted master plan in which he is always 10 steps ahead of his enemies.</p>
+<p>It is mostly the story of an ambitious man, ambitious to a fault, that deftly maneuvered in the twilight of the
+Republican institutions, by pleading, threatening, scheming and politicking his way to the top of the world.<br>
+The changes that his rise to power and inevitable fall are about to bring forth are not intentional, but rather
+the continuation of a process that started well before his birth and will need all the political acumen of his successor to consolidate.</p>
+<p>I quite liked this portrayal, which is mostly based on the &ldquo;standard sources&rdquo; for Caesar&rsquo;s life
+(Suetonius, Plutarch, Appian, the same Caesar) but also it also links events and hypothesize intentions
+through Cicero&rsquo;s correspondence.
+This is true especially for the last two years before the Ides (aka the years of the power grab), as
+the political scene in Rome became tenser.</p>
+<hr>
+<p>This humanizing depiction in some way helped attune some of the godly aura of the ancient statesman and
+has somewhat helped me from imagining him as something different than an ambitious and cunning man that <em>almost</em> made it.</p>
+<p>The awe and fascination however, are here to stay.</p>
+<blockquote>
+<p>Fun fact: my favourite etymology (of many) for his Cognomen comes from the Latin word <strong>Caedo</strong> which means &ldquo;to hit / to cut / to kill&rdquo;.</p>
+</blockquote>
+<h2 id="book-details">Book Details</h2>
+<ul>
+<li>ISBN: 8842081566</li>
+<li>Published: 2006</li>
+<li>Pages: 520</li>
+</ul>
+
+
+        </main>
+        <div class="push"></div>
+        <footer>
+    <hr class="footer"/>
+    <p>
+    <div id="footer-fist-line">
+        <a class="footer" href="https://github.com/gmnr"><i class="footer-icon" data-feather="github"></i><span class="footer-text">gmnr</span></a>
+        &bull;
+        <a class="footer" href="mailto:guido.minieri@gmail.com"><i class="footer-icon" data-feather="mail"></i><span class="footer-text">guido.minieri@gmail.com</span></a>
+        &bull;
+        <a class="footer" href="https://www.linkedin.com/in/guido-minieri/"><i class="footer-icon" data-feather="linkedin"></i><span class="footer-text">Guido Minieri</span></a>
+    </div>
+    <div id="footer-second-line">
+        <i class="footer-icon" data-feather="map-pin"></i><span class="footer-text">Coding and writing from </span><span> (Telese Terme | Naples), Italy</span>
+    </div>
+    <br>
+    <i class="footer-icon" data-feather="code"></i><a class="footer" href="https://github.com/gmnr/gmnr.github.io"><span class="footer-text">View the </span>source code</a>
+    </p>
+</footer>
+
+        
+<script src="https://gmnr.github.io/js/feather.min.js"></script>
+<script>
+    feather.replace()
+</script>
+
+
+    </div>
+</body>
+</html>
