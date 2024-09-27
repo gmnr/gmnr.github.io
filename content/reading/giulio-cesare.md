@@ -19,8 +19,8 @@ I always wanted to read a monograph about the most important (?) man for the Wes
 > Eventually, during the Empire, it even became a job description.  
 > I'm looking at you Diocletian.
 
-Much of this recognition however lays within the subtle and widespread PR policies of his successor, which
-was undoubtedly "The real master of Rome".
+Much of this recognition however, lays within the subtle and widespread PR policies of his successor, which
+was undoubtedly the "master of Rome".
 
 ---
 
@@ -46,7 +46,7 @@ the political scene in Rome became tenser.
 
 ---
 
-This humanizing depiction in some way helped attune some of the godly aura of the ancient statesman and
+This humanizing depiction in some way helped stunt some of the godly aura of the ancient statesman and
 has somewhat helped me from imagining him as something different than an ambitious and cunning man that _almost_ made it.
 
 The awe and fascination however, are here to stay.
