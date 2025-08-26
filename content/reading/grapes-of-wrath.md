@@ -16,7 +16,7 @@ The character are so very compelling, the story never boring.
 
 The juxtaposition of a narrative chapter with a descriptive one (each winking each other) keeps a rhythm that is inescapable.
 
-From a legibility perspective I especially enjoyed the way the accents of the characters are written.  
+From a legibility perspective I especially enjoyed the way the accents of the characters are written.<br>
 From a moral perspective the social criticism is ruthless.
 
 If you want to know what a Nobel winner reads like, give it a try.

@@ -6,7 +6,7 @@ rating: "2/5"
 layout: book-review
 ---
 
-A bit underwhelming.  
+A bit underwhelming.<br>
 The authors try and represent a clear picture of the event surrounding the
 death of Philip II of Macedon, but the accounts and any historical
 reconstruction is nearly impossible because of the lack of reliable sources.

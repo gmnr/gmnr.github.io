@@ -9,7 +9,7 @@ layout: book-review
 
 What a roller coaster!
 
-I have never been a big fan of fan-fictions, and it kinda shows...  
+I have never been a big fan of fan-fictions, and it kinda shows...<br>
 During the read I have changed opinion 4 times about the books, its themes and my general "appreciation" for it.
 
 In the end I believe it was a worthy read - I basically devoured the book.

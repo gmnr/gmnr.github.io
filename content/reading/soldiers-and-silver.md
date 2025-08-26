@@ -49,7 +49,7 @@ those other studies made on the same topic.
 
 The cornerstone of the book is not the quantification per se,
 but rather the comparison that the author makes,
-through its lenses, of the 5 powers.  
+through its lenses, of the 5 powers.<br>
 It this case, relative quantities (of soldiers and silver) are more informative than absolute ones.
 
 It is in the end a book for a scholar, but one that I have enjoyed quiet a lot.

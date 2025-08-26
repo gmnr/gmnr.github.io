@@ -7,7 +7,7 @@ draft: false
 layout: book-review
 ---
 
-The idea is interesting, but sometimes I've felt that the chapter was only going on to fill more space of the book.  
+The idea is interesting, but sometimes I've felt that the chapter was only going on to fill more space of the book.<br>
 I've appreciated the little trivia that I didn't know before.
 
 All in all a nice read, but nothing so breathtaking that changed my perspective.

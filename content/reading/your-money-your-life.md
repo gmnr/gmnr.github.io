@@ -19,21 +19,20 @@ Technically FI is the status of having enough income to pay one's living
 expenses for the rest of one's life without having to be employed or dependent
 on others. (according to [wikipedia](https://en.wikipedia.org/wiki/Financial_independence) anyways).
 
-However, the book is not about FI alone.  
+However, the book is not about FI alone.<br>
 It proposes itself as a corner stone (on which to elaborate further on your own) of
 a new set of beliefs that are aimed at redefining your relationship with money.
 
 This belief system is built upon three core concepts:
 
 1. **Financial Intelligence**: look at your relationship with money objectively
-2. **Financial Integrity**: align all aspect of your financial life with your
-   values
+2. **Financial Integrity**: align all aspect of your financial life with you values
 3. **Financial Independence**: -- _the wikipedia definition_ --
 
 Each concept is a step in a journey towards FI, which according to the author is
 just a by-product of your newly found balance with money and all it represents
 (job, cost of living, worry of the future, etc.), thus liberating you to live
-the life that you want.  
+the life that you want.<br>
 Some examples of what that may look like are: continuing with your employment as
 if nothing changed, resigning from your job and volunteering for a cause you
 deeply care about, taking up part-time jobs to study for new knowledge of a new
@@ -92,7 +91,7 @@ As before, the book teases with a little exercise:
 
 The former divided by the latter becomes your _real_ hourly wage and from here you
 can convert this amount into the cost of a single dollar expressed life-energy
-(e.g. every dollar that you spend represents 15 minutes of your life).  
+(e.g. every dollar that you spend represents 15 minutes of your life).<br>
 Thus, working is simply exchanging your **life-energy** for **money**. And
 your life energy, **your time**, is the most scarce and most important resource
 in your life, **and I agree completely**.
@@ -113,12 +112,11 @@ life-energy lest you forget the real value that's behind your purchases.
 
 #### 4. Evaluate your spending with your moral compass
 
-This is an introspective one.  
+This is an introspective one.<br>
 Each month, after compiling your P&L, you would need to take some time and
 reflect on your spending.
 
-- Have you received fulfillment and satisfaction in proportion to the amount
-  spent in life-energy?
+- Have you received fulfillment and satisfaction in proportion to the amount spent in life-energy?
 - Are these expenditures in alignment with your value and life purpose?
 - How would these expenditures change if you were not working for a living?
 
@@ -151,8 +149,7 @@ money by:
 
 - being conscious of your spending
 - learning to purchase (by researching value, durability and repairability)
-- pick up skills that might help you reduce your spending (e.g. learn how to
-  fix things)
+- pick up skills that might help you reduce your spending (e.g. learn how to fix things)
 
 #### 7. Maximize income
 
@@ -162,7 +159,7 @@ integrity and purpose so that you can achieve higher earnings.
 #### 8. Crossover point
 
 At a certain point of your journey the downing trend of your expenses will meet
-the raising trend of your investment income.  
+the raising trend of your investment income.<br>
 That point (i.e. the Crossover point) is reached when you are financially
 independent (_congratulations_) and your monthly income from your invested
 capital will be equal to your actual monthly expenses.
@@ -177,7 +174,7 @@ a steady income sufficient to your need in the long term.
 
 ---
 
-I recommend this book.  
+I recommend this book.<br>
 Financial education or even the basics of money management are skills too often
 overlooked today. Even if you're not interested in FI, you should at least
 consider this ideas in order to build a healthier relationship with money, and

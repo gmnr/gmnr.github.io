@@ -7,9 +7,9 @@ draft: false
 layout: book-review
 ---
 
-Mike Duncan is my favorite podcaster.  
+Mike Duncan is my favorite podcaster.<br>
 He ran "The History of Rome" podcast from 2007 to 2012 explaining in detail the whole history of
-the Roman Western Empire.  
+the Roman Western Empire.<br>
 It ran for 73h total, and I relished every last minute of it! (mostly while commuting by car).
 
 He then published this book that focuses on a period that is _less glamorous_
