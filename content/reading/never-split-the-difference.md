@@ -104,8 +104,7 @@ acknowledgment of the emotions behind it.
 
 - **Compromise**: never compromise, it creates a loss-loss situation for both parties, and can only brew resentment. Compromise only stems from the desire to avoid confrontation, and thus generates a sub-optimal outcome;
 - **Deadlines**: a rushed deal a bad deal by design; deadlines are often self inflicted and imaginary;
-- **Fairness**: decision making is an emotional activity. "Fair" is the most powerful word in negotiations,  
-  it can be used as a defending move (I only want what's fair) or for implicit criticism (I have offered you a fair deal);
+- **Fairness**: decision making is an emotional activity. "Fair" is the most powerful word in negotiations, it can be used as a defending move (I only want what's fair) or for implicit criticism (I have offered you a fair deal);
 
 ### 7. Negotiation is about asking the "right" questions
 
@@ -156,7 +155,7 @@ religiously and that consistently delivers results:
 - Put out a first offer at 65% of target, then go to 85%, 95% and 100% of target;
 - Make final offer a non-round number, that seems the result of complex calculations
 - Then at last moment throw in something else non-monetary (and possibly useless)
-  to show you are at your limit.
+  to show you are at your limit.<br>
   Unexpected conciliatory gestures like this are hugely effective because they
   introduce a dynamic called reciprocity; the other party feels the need to
   answer your generosity in kind. They will suddenly come up on their offer,
