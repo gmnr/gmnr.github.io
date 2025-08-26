@@ -1,5 +1,5 @@
 ---
-title: "Il Lessico dei Greci, Una civiltà in 30 parole"
+title: "Il Lessico dei Greci, una Civiltà in 30 Parole"
 date: 2025-05-16T14:34:46+02:00
 author: "Giulio Guidorizzi"
 rating: "2/5"
