@@ -3,21 +3,19 @@ title: About me
 layout: aboutpage
 ---
 
-![hello](/img/about/presentation.jpg)<br>
-Hi, my name is Guido.<br>
-I play music (with varied degrees of success and instruments) and I like
-computers.
+![hello](/img/about/presentation.jpg)<br> Hi, my name is Guido.<br> I play music
+(with varied degrees of success and instruments) and I like computers.
 
 ## The Computer Conundrum
 
 I have no CompSci background, but I am _rather enthusiastic_ about computers
 (emphasis on both terms).
 
-With no formal education and zero practical knowledge in the field I know
-I won't be working around my passion.<br>
-I actually tried getting hired by a tech-company but I ended up working for
-a big IT name, albeit for a less technical role that I had hoped for.<br>
-Maybe one day I will write about that too, maybe not.
+With no formal education and zero practical knowledge in the field I know I
+won't be working around my passion.<br> I actually tried getting hired by a
+tech-company but I ended up working for a big IT name, albeit for a less
+technical role that I had hoped for.<br> Maybe one day I will write about that
+too, maybe not.
 
 Therefore, to cultivate this pursuit I have carved up a place in my spare time
 by reading a lot of resources, following tutorials and trying (and failing) the
@@ -33,11 +31,11 @@ Right now I am trying to learn more about:
 ### Programming Languages
 
 The first language I ever came in contact with is
-[Python](https://www.python.org), and I have been in love ever since.<br>
-Now I feel pretty confident with it (but I am by no means a master) yet
-I recognize the need to broaden my horizons; in the near future, I would like
-to try my hand at something less "user-friendly" and either go down a level of
-abstraction (with C) or try a new paradigm (with [Haskell](http://learnyouahaskell.com/)).
+[Python](https://www.python.org), and I have been in love ever since.<br> Now I
+feel pretty confident with it (but I am by no means a master) yet I recognize
+the need to broaden my horizons; in the near future, I would like to try my hand
+at something less "user-friendly" and either go down a level of abstraction
+(with C) or try a new paradigm (with [Haskell](http://learnyouahaskell.com/)).
 
 Other languages I know?
 
@@ -63,7 +61,7 @@ average.
 So this little corner of the internet tries to achieve two things:
 
 - allows me to share with the world the things that I am passionate about
-- helps me building confidence in writing (and I am always open for<br>
+- helps me building confidence in writing (and I am always open for
   [feedback](mailto:guido.minieri@gmail.com), as gnarly as it could be)
 
 ---

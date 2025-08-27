@@ -9,11 +9,11 @@ layout: book-review
 
 I have seen this book recommended everywhere and so I decided to give it a shot.
 
-Each chapter is a supposed "law" of power, with a very short summary of the
-dos and dont's and then examples (both in accordance and opposition with the law in
-question) drawn from anecdotes.
-The authenticity of these anecdotes is never in question and yet, I haven't found
-a single source that attests to their legitimacy.
+Each chapter is a supposed "law" of power, with a very short summary of the dos
+and dont's and then examples (both in accordance and opposition with the law in
+question) drawn from anecdotes. The authenticity of these anecdotes is never in
+question and yet, I haven't found a single source that attests to their
+legitimacy.
 
 Sometimes the laws are contradictory other times the example provided
 arbitrarily jumps to conclusions.

@@ -28,10 +28,10 @@ written a book.
 
 It's all very mystical, by the "gravitas" of the subjects in exam (with sources
 from the Bible) and also by the subtle hints and cameos that the book portraits
-of itself.<br>
-In particular, there's the use of the same recurrent formula to finish the chapters
-that are staged in ancient Judea ("...in the month of Nisan.") or those that refer
-to Pilate himself ("...the horseman Pontius Pilate.").
+of itself.<br> In particular, there's the use of the same recurrent formula to
+finish the chapters that are staged in ancient Judea ("...in the month of
+Nisan.") or those that refer to Pilate himself ("...the horseman Pontius
+Pilate.").
 
 Everything that happens seems at first glance nonsensical, but it's all part of
 a little dance that provides evidence of a "grand design" that becomes apparent
@@ -55,9 +55,9 @@ interrupted the "flow" many times before finishing the book).
 ---
 
 I must also note that I listened to a lesson by professor Alessandro Barbero
-about the beauty of the book and its relationship with Bulgakov life.<br>
-At the end the professor said he's always moved to tears by the end of the book,
-and so was I.
+about the beauty of the book and its relationship with Bulgakov life.<br> At the
+end the professor said he's always moved to tears by the end of the book, and so
+was I.
 
 Would strongly recommend and, indeed, read again.
 

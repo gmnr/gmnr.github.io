@@ -11,17 +11,16 @@ I read this book in one night;
 As already mentioned in these reviews, I don't particularly like "modern"
 History (and for me modern is everything that happened less than 1.500 years
 ago); but this beautiful essay by Matteo Albanese showed me that more can be
-told about events whose sources are contemporary to us (as expected) but in
-a way that feels genuine and engaging.
+told about events whose sources are contemporary to us (as expected) but in a
+way that feels genuine and engaging.
 
 Telling a story that has been written rewritten, conspired about, put on other
 media and much, much discussed is not an easy task, especially from an
-Historical point of view. And yet the way the facts surround the famous
-_"affare Moro"_ are told in this essay specifically outline a new way of
-telling History that I had not imagined.<br>
-Facts are not presented in a sensationalized way, but rather by verifying in
-every paragraph the checks and balances, the subtle equilibrium of presenting
-facts in an aseptic way.
+Historical point of view. And yet the way the facts surround the famous _"affare
+Moro"_ are told in this essay specifically outline a new way of telling History
+that I had not imagined.<br> Facts are not presented in a sensationalized way,
+but rather by verifying in every paragraph the checks and balances, the subtle
+equilibrium of presenting facts in an aseptic way.
 
 The story being told is not about the front-cover titles and slogan but rather
 about a clash between two organizations: one "legitimate" and the other

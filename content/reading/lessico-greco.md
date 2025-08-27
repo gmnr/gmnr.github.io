@@ -7,13 +7,15 @@ draft: false
 layout: book-review
 ---
 
-The idea is interesting, but sometimes I've felt that the chapter was only going on to fill more space of the book.<br>
-I've appreciated the little trivia that I didn't know before.
+The idea is interesting, but sometimes I've felt that the chapter was only going
+on to fill more space of the book.<br> I've appreciated the little trivia that I
+didn't know before.
 
 All in all a nice read, but nothing so breathtaking that changed my perspective.
 The name-dropping was strong in this one.
 
-Some of the chapters were better than others, sometimes it felt the author was really milking it.
+Some of the chapters were better than others, sometimes it felt the author was
+really milking it.
 
 ## Book Details
 
