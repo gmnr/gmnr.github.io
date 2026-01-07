@@ -1,6 +1,6 @@
 ---
 title: "A Distant Mirror - The Calamitous 14th Century"
-date: 2025-08-26T18:21:54+02:00
+date: 2025-09-26T18:21:54+02:00
 author: "Barbara W. Tuchman"
 rating: "5/5"
 draft: false
