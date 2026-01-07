@@ -6,8 +6,15 @@
     <description>Recent content on gmnr.github.io</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Aug 2025 18:22:06 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 00:33:06 +0200</lastBuildDate>
     <atom:link href="https://gmnr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sailing Alone Around the World</title>
+      <link>https://gmnr.github.io/reading/sailing-alone/</link>
+      <pubDate>Thu, 11 Dec 2025 00:33:06 +0200</pubDate>
+      <guid>https://gmnr.github.io/reading/sailing-alone/</guid>
+      <description>&lt;p&gt;Indeed a peaceful read.&lt;/p&gt;&#xA;&lt;h2 id=&#34;book-details&#34;&gt;Book Details&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ISBN: 1494860430&lt;/li&gt;&#xA;&lt;li&gt;Published: 1900&lt;/li&gt;&#xA;&lt;li&gt;Pages: 184&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Poor Charlie Almanack</title>
       <link>https://gmnr.github.io/reading/poor-charlie-almanack/</link>
@@ -238,13 +245,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gmnr.github.io/about/</guid>
       <description>&lt;p&gt;&lt;figure&gt;&#xA;    &lt;img src=&#34;https://gmnr.github.io/img/about/presentation.jpg&#34; alt=&#34;hello&#34;&gt;&#xA;    &lt;figcaption&gt;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;br&gt; Hi, my name is Guido.&lt;br&gt; I play music&#xA;(with varied degrees of success and instruments) and I like computers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-computer-conundrum&#34;&gt;The Computer Conundrum&lt;/h2&gt;&#xA;&lt;p&gt;I have no CompSci background, but I am &lt;em&gt;rather enthusiastic&lt;/em&gt; about computers&#xA;(emphasis on both terms).&lt;/p&gt;&#xA;&lt;p&gt;With no formal education and zero practical knowledge in the field I know I&#xA;won&amp;rsquo;t be working around my passion.&lt;br&gt; I actually tried getting hired by a&#xA;tech-company but I ended up working for a big IT name, albeit for a less&#xA;technical role that I had hoped for.&lt;br&gt; Maybe one day I will write about that&#xA;too, maybe not.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What I have read so far</title>
-      <link>https://gmnr.github.io/reading/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gmnr.github.io/reading/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
