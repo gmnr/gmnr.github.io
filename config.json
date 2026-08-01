@@ -1,6 +1,5 @@
 {
   "baseURL": "https://gmnr.github.io",
-  "languageCode": "en-us",
   "title": "gmnr.github.io",
   "publishDir": "docs",
   "disableFastRender": true,
