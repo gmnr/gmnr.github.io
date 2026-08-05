@@ -5,14 +5,21 @@
 		<link>https://gmnr.github.io/reading/</link>
 		<description>Recent content in What I have read so far on gmnr.github.io</description>
 		<generator>Hugo</generator>
-		<language>en-us</language>
+		<language>en</language>
 		
 		
 		
 		
-			<lastBuildDate>Mon, 13 Jul 2026 11:20:52 +0200</lastBuildDate>
+			<lastBuildDate>Mon, 27 Jul 2026 17:27:25 +0200</lastBuildDate>
 		
 			<atom:link href="https://gmnr.github.io/reading/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Flow</title>
+				<link>https://gmnr.github.io/reading/flow/</link>
+				<pubDate>Mon, 27 Jul 2026 17:27:25 +0200</pubDate>
+				<guid>https://gmnr.github.io/reading/flow/</guid>
+				<description>&lt;p&gt;A good read.&lt;/p&gt;&#xA;&lt;p&gt;I was fascinated by this book ever since I had read that there was an author&#xA;that tried to systematize access flow state.&lt;br&gt;In fact, the main appeal of the&#xA;book is indeed the guidelines that it offers in allowing everyone into the state&#xA;of flow.&lt;/p&gt;&#xA;&lt;p&gt;I have probably been at my happiest whilst in flow state but it had appeared as&#xA;a casual event, as if by magic. The books aims at explaining the way everyone&#xA;can tap into this kind of superpower.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>What If? 2</title>
 				<link>https://gmnr.github.io/reading/what-if2/</link>
