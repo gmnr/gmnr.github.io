@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 27 Jul 2026 17:27:25 +0200</lastBuildDate>
+			<lastBuildDate>Sun, 30 Aug 2026 18:22:47 +0200</lastBuildDate>
 		
 			<atom:link href="https://gmnr.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Fluent Python</title>
+				<link>https://gmnr.github.io/reading/fluent-python/</link>
+				<pubDate>Sun, 30 Aug 2026 18:22:47 +0200</pubDate>
+				<guid>https://gmnr.github.io/reading/fluent-python/</guid>
+				<description>&lt;p&gt;This is a book that has been on my to-read list for far too long.&lt;br&gt; Ever since&#xA;I started my coding journey (and that is circa 2015, I guess), I have always&#xA;wanted to tackle a &amp;ldquo;hands-on&amp;rdquo; programming book. Consensus on the street was,&#xA;this book would &amp;ldquo;open my eyes&amp;rdquo; on Pythonic programming.&lt;/p&gt;&#xA;&lt;p&gt;And open my eyes it did - this books ticks all the boxes, it is very advanced,&#xA;as it tackles complex topics such as metaprogramming, but also takes your hand,&#xA;especially in the beginning when it walks you over the many ways Python handles&#xA;built-ins and fundamentals.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Flow</title>
 				<link>https://gmnr.github.io/reading/flow/</link>
