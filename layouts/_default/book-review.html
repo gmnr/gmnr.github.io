@@ -4,6 +4,7 @@
 <br>
 <div class="author">Author: {{ .Params.author }}</div>
 <div class="rating">Rating: {{ .Params.rating }}</div>
+{{ if .Params.audiobook }}<div class="format"><i class="audiobook-icon" data-feather="headphones"></i>Listened as an audiobook</div>{{ end }}
 <br>  
 {{ .Content }}
 {{ end }}

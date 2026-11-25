@@ -1,7 +1,7 @@
 ---
 title: "The Grapes of Wrath"
 date: 2025-01-09T10:49:56+02:00
-author: "Jonh Steinbeck"
+author: "John Steinbeck"
 rating: "5/5"
 draft: false
 layout: book-review

@@ -3,6 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: "TODO"
 rating: "x/5"
+audiobook: false
 draft: false
 layout: book-review
 ---

@@ -73,7 +73,6 @@
   }
 
   hr.footer {
-    all:initial
     width: 60%;
     height: 1px;
     border: 0;
@@ -153,7 +152,7 @@
   }
 
   code {
-    font-family: Monaco;
+    font-family: Monaco, Menlo, Consolas, "Liberation Mono", monospace;
     font-size: 90%;
   }
 
@@ -214,6 +213,16 @@
     color: grey;
   }
 
+  .book-format {
+    width: 1.6em;
+    padding-right: 0.5em;
+    text-align: center;
+  }
+
+  .book-format .audiobook-icon {
+    margin-right: 0;
+  }
+
   #main {
     flex: 1;
   }
@@ -222,12 +231,6 @@
     position: relative;
     display: inline;
     top: 1px;
-  }
-
-  #signature {
-    display: inline;
-    font-weight: 600;
-    float: right;
   }
 
   .container {
@@ -249,13 +252,23 @@
 
   .post-date,
   .author,
-  .rating {
+  .rating,
+  .format {
     color: grey;
   }
 
   .author,
-  .rating {
+  .rating,
+  .format {
     font-style: italic;
+  }
+
+  .audiobook-icon {
+    width: 1em;
+    height: 1em;
+    margin-right: 0.35em;
+    vertical-align: -0.12em;
+    color: grey;
   }
 
   .index-title {

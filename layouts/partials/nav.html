@@ -1,7 +1,7 @@
 <div>
   <nav id="nav" class="nav">
     {{ range .Site.Menus.main  }}
-    <div id="{{ .Name }}" class="menu-item {{ .Params.class }}">
+    <div class="menu-item {{ .Params.class }}">
       {{ $text := print "<span class=\"menu-text\">" .Name "</span>" | safeHTML  }}
       {{ if isset .Params "signature" }}
         {{ $text }}
